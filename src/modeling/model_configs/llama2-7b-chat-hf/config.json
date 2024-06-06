@@ -1,0 +1,105 @@
+{
+    "name_or_path": "llama2-7b-chat-hf",
+    "prompt_template": "[INST] <<SYS>> {system} <</SYS>> {prompt} [/INST]",
+    "conversation_template": {
+        "name": "llama2-7b-chat-hf",
+        "system_template": "{intro}{system}{sep1}{prompt}{sep2}",
+        "system": "A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.",
+        "intro": "[INST] <<SYS>> ",
+        "sep1": " <</SYS>> ",
+        "sep2": "[/INST] ",
+        "sep3": " </s><s> [INST]",
+        "messages": [],
+        "stop_token_ids": null
+    },
+    "huggingface": {
+        "basic": {
+            "model_name": "meta-llama/Llama-2-7b-chat-hf",
+            "max_new_tokens": 512,
+            "temperature": 1.0,
+            "top_p": 1.0,
+            "do_sample": false,
+            "model_n_ctx": 4096,
+            "dtype": "torch.float16",
+            "question_answering": {"use_context": true}
+        },
+        "summarization": {
+            "max_new_tokens": 200,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "question_answering": {
+            "max_new_tokens": 512,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "text2sql": {
+            "max_new_tokens": 512,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "mt_bench": {
+            "max_new_tokens": 1024,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "alpaca_eval": {
+            "max_new_tokens": 1024,
+            "temperature": 0.0001,
+            "do_sample": false
+        }
+    },
+    "llama_cpp_python": {
+        "basic": {
+            "model_name": "meta-llama/Llama-2-7b-chat-hf",
+            "max_tokens": 512,
+            "temperature": 0.7,
+            "top_p": 1.0,
+            "do_sample": false,
+            "model_echo_prompt": false,
+            "echo": false,
+            "n_ctx": 4096,
+            "question_answering": {"use_context": true}
+        },
+        "summarization": {
+            "max_tokens": 200,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "question_answering": {
+            "max_tokens": 512,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "text2sql": {
+            "max_tokens": 512,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "mt_bench": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "alpaca_eval": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "trust_and_safety": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "mmlu": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "math": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        }
+    }
+}

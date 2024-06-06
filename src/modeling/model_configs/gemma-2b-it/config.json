@@ -1,0 +1,108 @@
+{
+    "name_or_path": "gemma-2b-it",
+    "prompt_template": "<start_of_turn>user\n{system} {prompt}<end_of_turn>\n<start_of_turn>model\n",
+    "conversation_template": {
+        "name": "gemma-2b-it",
+        "system_template": "{intro}{system}{sep1}{prompt}{sep2}",
+        "system": "A chat between a curious user and an artificial intelligence model. The model gives helpful, detailed, and polite answers to the user's questions.",
+        "messages": [],
+        "intro": "<bos><start_of_turn>user\n",
+        "sep1": " ",
+        "sep2": "<end_of_turn>\n<start_of_turn>model\n",
+        "sep3": "<end_of_turn>\n<start_of_turn>user\n",
+        "stop_token_ids": ""
+    },
+    "huggingface": {
+        "basic": {
+            "model_name": "google/gemma-2b-it",
+            "model_kwargs": {"torch_dtype": "float16"},
+            "max_new_tokens": 512,
+            "temperature": 1.0,
+            "top_p": 1.0,
+            "do_sample": false,
+            "model_n_ctx": 4096,
+            "dtype": "torch.bfloat16",
+            "question_answering": {"use_context": true}
+        },
+        "summarization": {
+            "max_new_tokens": 200,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "question_answering": {
+            "max_new_tokens": 512,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "text2sql": {
+            "max_new_tokens": 512,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "mt_bench": {
+            "max_new_tokens": 1024,
+            "temperature": 0.0001,
+            "do_sample": false
+        },
+        "alpaca_eval": {
+            "max_new_tokens": 1024,
+            "temperature": 0.0001,
+            "do_sample": false
+        }
+    },
+    "llama_cpp_python": {
+        "basic": {
+            "model_name": "google/gemma-2b-it",
+            "model_kwargs": {"torch_dtype": "float16"},
+            "max_tokens": 512,
+            "temperature": 0.7,
+            "top_p": 1.0,
+            "do_sample": false,
+            "model_echo_prompt": false,
+            "echo": false,
+            "n_ctx": 4096,
+            "dtype": "torch.bfloat16",
+            "question_answering": {"use_context": true}
+        },
+        "summarization": {
+            "max_tokens": 200,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "question_answering": {
+            "max_tokens": 512,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "text2sql": {
+            "max_tokens": 512,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "mt_bench": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "alpaca_eval": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "trust_and_safety": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "mmlu": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        },
+        "math": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        }
+    }
+}

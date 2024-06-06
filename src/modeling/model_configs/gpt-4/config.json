@@ -1,0 +1,55 @@
+{
+    "name_or_path": "gpt-4",
+    "prompt_template": "{system} {prompt}",
+    "conversation_template": {
+        "name": "gpt-4",
+        "system_template": "{intro}{system}{sep1}{prompt}{sep2}",
+        "system": "A chat between a curious user and an artificial intelligence model. The model gives helpful, detailed, and polite answers to the user's questions.",
+        "messages": [],
+        "intro": "USER:",
+        "sep1": " ",
+        "sep2": "MODEL:",
+        "sep3": "USER:",
+        "stop_token_ids": ""
+    },
+    "openai": {
+        "basic": {
+            "model_name": "gpt-4",
+            "model_kwargs": {"torch_dtype": "float16"},
+            "max_tokens": 512,
+            "temperature": 0.7,
+            "top_p": 1.0,
+            "do_sample": false,
+            "model_echo_prompt": false,
+            "echo": false,
+            "n_ctx": 4096,
+            "dtype": "torch.bfloat16",
+            "question_answering": {"use_context": true}
+        },
+        "summarization": {
+            "max_tokens": 200,
+            "temperature": 0.0001
+        },
+        "question_answering": {
+            "max_tokens": 512,
+            "temperature": 0.0001
+        },
+        "text2sql": {
+            "max_tokens": 512,
+            "temperature": 0.0001
+        },
+        "mt_bench": {
+            "max_tokens": 1024,
+            "temperature": 0.0001
+        },
+        "alpaca_eval": {
+            "max_tokens": 1024,
+            "temperature": 0.0001
+        },
+        "trust_and_safety": {
+            "max_tokens": 1024,
+            "echo": false,
+            "temperature": 0.0001
+        }
+    }
+}
