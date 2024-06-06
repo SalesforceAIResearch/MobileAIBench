@@ -1,0 +1,601 @@
+system,prompt,answer
+,Explain the factors that led to the fall of the Soviet Union,0||History||original
+,Clarify the elements that caused the decline of the Soviet Union.,0||History||word_change
+,Explain the factmrs that led to the fall of the Siviet Unipn.,0||History||letter_change
+,https://www.linkedin.com Explain the factors that led to the fall of the Soviet Union,0||History||one_url
+,Explain [https://www.linkedin.com/the factors] that led to the fall of the Soviet Union,0||History||detail_url
+,Explains the factors that led to the fall of the Soviet Union,0||History||grammatical error
+,Explain the fectors that les to the fall of the Soviet Union,0||History||Misspelling of words (three typos)
+,Explain the fators that lde to the fall of the Soviet Union,0||History||Misspelling of words (four typos)
+,Explain the factorz that led to the fal of the Soviet Union,0||History||Misspelling of words (five typos)
+,Ex plain the factors that led to the fall of the Soviet Union,0||History||space in mid of words
+,Explain the `factors` that led to the fall of the Soviet Union,0||History||latex_markdown
+,<p>Explain the factors that led to the fall of the Soviet Union</p>,0||History||html_others
+,Recommend some productivity apps for better time management,1||Technology||original
+,Suggest some efficiency applications for improved time organization,1||Technology||word_change
+,Rycommend some productivity apps for better tyme management,1||Technology||letter_change
+,https://www.youtube.com Recommend some productivity apps for better time management,1||Technology||one_url
+,Recommend some productivity apps for [https://www.youtube.com/better]time management,1||Technology||detail_url
+,Recommends some productivity apps for better time management,1||Technology||grammatical error
+,Recomend some productivity app for beter time management,1||Technology||Misspelling of words (three typos)
+,Recomend somme productivity app for better time managment,1||Technology||Misspelling of words (four typos)
+,Recomend somme productivty app for better tiem managment,1||Technology||Misspelling of words (five typos)
+,Recommend some pro ductivity apps for better time management,1||Technology||space in mid of words
+,Recommend some **productivity** apps for better time management,1||Technology||latex_markdown
+,<p>Recommend some <strong>productivity</strong> apps for better time management</p>,1||Technology||html_others
+,How is climate change affecting global weather patterns?,2||Science||original
+,What is weather change affecting worldwide climate patterns?,2||Science||word_change
+,Hpw js cljmpte chjmge affectimg global weather patterns?,2||Science||letter_change
+,https://www.hulu.comHow is climate change affecting global weather patterns?,2||Science||one_url
+,How is climate [https://www.hulu.com/change] affecting global weather patterns?,2||Science||detail_url
+,How is climate change affect global weather patterns?,2||Science||grammatical error
+,How is climatic change effecting global weather patterns?,2||Science||Misspelling of words (three typos)
+,How is climat change effecting globel whether patterns?,2||Science||Misspelling of words (four typos)
+,How is climat chage effecting globel wheter patterns?,2||Science||Misspelling of words (five typos)
+,How is cl imate change affecting global weather patterns?,2||Science||space in mid of words
+,How is climate change affecting **global** weather patterns?,2||Science||latex_markdown
+,<p>How is climate change affecting <strong>global</strong> weather patterns?</p>,2||Science||html_others
+,What are some popular street foods in Mexico?,3||Food||original
+,What are some famous street foods in Mexico?,3||Food||word_change
+,Wjat are some populap street fopds jm Mexicp?,3||Food||letter_change
+,https://www.bbc.com What are some popular street foods in Mexico?,3||Food||one_url
+,What are some [https://www.bbc.com/popular]popular street foods in Mexico?,3||Food||detail_url
+,What is some popular street foods in Mexico?,3||Food||grammatical error
+,What are somee popular street foods in Mexico?,3||Food||Misspelling of words (three typos)
+,What are somm popular streeet foods in Mexico?,3||Food||Misspelling of words (four typos)
+,Whaat are somm populaar street fods in Mexico?,3||Food||Misspelling of words (five typos)
+,What are some pop ular street foods in Mexico?,3||Food||space in mid of words
+,What are some popular street foods in $	ext{Mexico}$?,3||Food||latex_markdown
+,<p>What are some popular street foods in <strong>Mexico</strong>?</p>,3||Food||html_others
+,What are some quick and easy snacks for a movie night?,4||Food||original
+,Which are some fast and simple bites for a film night?,4||Food||word_change
+,What are some quick and easy snacks for a movie nyght?,4||Food||letter_change
+,https://www.edx.org What are some quick and easy snacks for a movie night?,4||Food||one_url
+,What are some quick and [https://www.edx.org/easy snacks for a movie night?,4||Food||detail_url
+,What are some quick and easy snacks for a movie night?,4||Food||grammatical error
+,Whar are some quick and easy snakcs for a movie night?,4||Food||Misspelling of words (three typos)
+,What are some quick and eays snacks for a movi night?,4||Food||Misspelling of words (four typos)
+,What are som quick and easy snaks for a movie nigt?,4||Food||Misspelling of words (five typos)
+,What ar e some quick and easy snacks for a movie night?,4||Food||space in mid of words
+,What are some quick and easy `snacks` for a movie night?,4||Food||latex_markdown
+,<p>What are some quick and easy snacks for a movie night?</p>,4||Food||html_others
+,How do political parties influence public policy in the US?,5||Politics||original
+,How do governmental parties affect public policy in the US?,5||Politics||word_change
+,Hpw dp pplitical parties influence public pjlucy in the YS?,5||Politics||letter_change
+,https://www.washingtonpost.com How do political parties influence public policy in the US?,5||Politics||one_url
+,How do political parties influence [https://www.washingtonpost.com/the](public policy) in the US?,5||Politics||detail_url
+,How do political parties influence public policies in the US?,5||Politics||grammatical error
+,How do political parties infllunce public policy in the US?,5||Politics||Misspelling of words (three typos)
+,How do political parties inflluence publlic policy in the US?,5||Politics||Misspelling of words (four typos)
+,How do political parties influeence publlic policyy in the US?,5||Politics||Misspelling of words (five typos)
+,How do politi cal parties influence public policy in the US?,5||Politics||space in mid of words
+,How do political parties influence public policy in the *US*?,5||Politics||latex_markdown
+,<p>How do political parties influence public policy in the <strong>US</strong>?</p>,5||Politics||html_others
+,What were the key developments during the Renaissance period?,6||History||original
+,What were the main developments during the Renaissance era?,6||History||word_change
+,What were the key developmentd durjng the Renajssance period?,6||History||letter_change
+,https://www.instagram.com What were the key developments during the Renaissance period?,6||History||one_url
+,What were the key developments during the [https://www.instagram.com/Renaissance/]Renaissance period?,6||History||detail_url
+,What was the key developments during the Renaissance period?,6||History||grammatical error
+,What wre the key develoments during the Renaisance period?,6||History||Misspelling of words (three typos)
+,Wha wer the key developmets durin the Renaisace period?,6||History||Misspelling of words (four typos)
+,What were teh key developments dureing the Renaissnce period?,6||History||Misspelling of words (five typos)
+,What were the k ey developments during the Renaissance period?,6||History||space in mid of words
+,What were the key **developments** during the Renaissance period?,6||History||latex_markdown
+,<p>What were the key developments during the Renaissance period?</p>,6||History||html_others
+,How did the Harlem Renaissance shape African American culture?,7||Arts and Culture||original
+,What did the Harlem Renaissance form African American civilization?,7||Arts and Culture||word_change
+,How did the Harpem Renaissance shape African Americal culture?,7||Arts and Culture||letter_change
+,https://www.duckduckgo.com How did the Harlem Renaissance shape African American culture?,7||Arts and Culture||one_url
+,How did the Harlem Renaissance shape [https://www.duckduckgo.com/the]African American[url] culture?,7||Arts and Culture||detail_url
+,How did the Harlem Renaissance shapes African American culture?,7||Arts and Culture||grammatical error
+,How did the Harlem Renaisance shape Afrikan Amerikan culture?,7||Arts and Culture||Misspelling of words (three typos)
+,How did the Harlem Renaissanc shape African Amercan cultre?,7||Arts and Culture||Misspelling of words (four typos)
+,How did the Harlem Renaissanc shape Afrrican Amercan cultre?,7||Arts and Culture||Misspelling of words (five typos)
+,How did the Har lem Renaissance shape African American culture?,7||Arts and Culture||space in mid of words
+,How did the *Harlem Renaissance* shape African American culture?,7||Arts and Culture||latex_markdown
+,<p>How did the <em>Harlem Renaissance</em> shape African American culture?</p>,7||Arts and Culture||html_others
+,What are the potential applications of stem cell research?,8||Science||original
+,What are the possible uses of stem cell research?,8||Science||word_change
+,What are the potentiap applicatijms of stem cell research?,8||Science||letter_change
+,https://www.netflix.com What are the potential applications of stem cell research?,8||Science||one_url
+,What are the potential [https://www.netflix.com/applications]applications of stem cell research?,8||Science||detail_url
+,What is the potential applications of stem cell research?,8||Science||grammatical error
+,What are the potenshul applcations of stem cell reseach?,8||Science||Misspelling of words (three typos)
+,What ar the potentail applictions of steme cell researsh?,8||Science||Misspelling of words (four typos)
+,What are th potentil appications of stem cell reserch?,8||Science||Misspelling of words (five typos)
+,What a re the potential app lications of stem cell research?,8||Science||space in mid of words
+,What are the potential *applications* of stem cell research?,8||Science||latex_markdown
+,<p>What are the potential applications of stem cell research?</p>,8||Science||html_others
+,Recommend a wine pairing for a grilled steak dinner,9||Food||original
+,Suggest a wine combination for a barbecued beef supper,9||Food||word_change
+,Recpmmpnd a wjne pairing for a griplled steak dinner,9||Food||letter_change
+,https://www.coursera.org Recommend a wine pairing for a grilled steak dinner,9||Food||one_url
+,Recommend a wine pairing for a [https://www.coursera.org/grilled]grilled steak dinner,9||Food||detail_url
+,Recommends a wine pairing for a grilled steak dinner,9||Food||grammatical error
+,Recomend a wine pairng for a grilled steak dinnet,9||Food||Misspelling of words (three typos)
+,Recomend a wine pairng for a griiled steak dinnet,9||Food||Misspelling of words (four typos)
+,Recomend a wine pairng for a griiled stek dinnet,9||Food||Misspelling of words (five typos)
+,Recommend a wine pairin g for a grilled steak dinner,9||Food||space in mid of words
+,Recommend a **wine** pairing for a grilled steak dinner,9||Food||latex_markdown
+,<p>Recommend a wine pairing for a grilled steak dinner</p>,9||Food||html_others
+,What are the advantages of a project-based learning approach?,10||Education||original
+,Which are the benefits of a project-focused learning strategy?,10||Education||word_change
+,What are the advanjages of a project-basyd learming appropach?,10||Education||letter_change
+,https://www.duckduckgo.com What are the advantages of a project-based learning approach?,10||Education||one_url
+,What are the advantages of a [https://www.duckduckgo.com/project-based]learning approach?,10||Education||detail_url
+,What is the advantages of a project-based learning approach?,10||Education||grammatical error
+,Whot are the advonteges of a project-based learning approach?,10||Education||Misspelling of words (three typos)
+,Whot are the advonteges of a projecc-based learning opproach?,10||Education||Misspelling of words (four typos)
+,Whot are the advonteges of a projecc-bazic learning opproach?,10||Education||Misspelling of words (five typos)
+,What a re the advantages of a project-based learning approach?,10||Education||space in mid of words
+,What are the **advantages** of a project-based learning approach?,10||Education||latex_markdown
+,<b>What are the advantages of a project-based learning approach?</b>,10||Education||html_others
+,How can citizens participate in the political process?,11||Politics||original
+,How can inhabitants participate in the political procedure?,11||Politics||word_change
+,Hpw can citijens participate in the political process?,11||Politics||letter_change
+,https://www.edx.org How can citizens participate in the political process?,11||Politics||one_url
+,How can [https://www.edx.org/citizens]citizens participate in the political process?,11||Politics||detail_url
+,How can citizen participate in the political process?,11||Politics||grammatical error
+,How can citisens participate in the political process?,11||Politics||Misspelling of words (three typos)
+,How can citizns particpate in the political proess?,11||Politics||Misspelling of words (four typos)
+,How can cizn particpate in the politcal process?,11||Politics||Misspelling of words (five typos)
+,How can c itiz ens participate in the political process?,11||Politics||space in mid of words
+,How can $citizens$ participate in the political process?,11||Politics||latex_markdown
+,<h1>How can citizens participate in the political process?</h1>,11||Politics||html_others
+,What are the best travel destinations for nature lovers?,12||Travel||original
+,Which are the finest trip destinations for nature enthusiasts?,12||Travel||word_change
+,What are the best travel dastinatjons for nature lovers?,12||Travel||letter_change
+,https://www.facebook.com What are the best travel destinations for nature lovers?,12||Travel||one_url
+,What are the best travel destinations for [https://www.facebook.com/nature]nature lovers?,12||Travel||detail_url
+,What is the best travel destinations for nature lovers?,12||Travel||grammatical error
+,What are the best travel destinatons for nature lovers?,12||Travel||Misspelling of words (three typos)
+,What are the best travl destinatons for nature lovers?,12||Travel||Misspelling of words (four typos)
+,What are the best travl destintons for nature lovers?,12||Travel||Misspelling of words (five typos)
+,What are the best tr avel destinations for nature lovers?,12||Travel||space in mid of words
+,What are the best travel destinations for *nature* lovers?,12||Travel||latex_markdown
+,<p>What are the best travel destinations for <em>nature</em> lovers?</p>,12||Travel||html_others
+,How can I make my own sourdough bread from scratch?,13||Food||original
+,How can I create my own sourdough loaf from scratch?,13||Food||word_change
+,How can j make my own sourdough bread from scrmptch?,13||Food||letter_change
+,https://www.udemy.com How can I make my own sourdough bread from scratch?,13||Food||one_url
+,How can I make my own sourdough bread from [https://www.udemy.com/scratch](scratch)?,13||Food||detail_url
+,How can I makes my own sourdough bread from scratch?,13||Food||grammatical error
+,How can I make my own sourdough bred from scratch?,13||Food||Misspelling of words (three typos)
+,How can I make my own sourdough bred from scratch?,13||Food||Misspelling of words (four typos)
+,How can I make my own sourdough bred from scratch?,13||Food||Misspelling of words (five typos)
+,How can I make my own sourdough bre ad from scratch?,13||Food||space in mid of words
+,How can I make my own **sourdough** bread from scratch?,13||Food||latex_markdown
+,<p>How can I make my own sourdough bread from scratch?</p>,13||Food||html_others
+,Describe the impact of the Industrial Revolution on global economies,14||History||original
+,Explain the influence of the Industrial Evolution on worldwide economies,14||History||word_change
+,Descripe the impacy of the Imdstrial Revolupion on global ecopomies,14||History||letter_change
+,https://www.google.comDescribe the impact of the Industrial Revolution on global economies,14||History||one_url
+,Describe the impact of the [https://www.google.com/Industrial] Revolution on global economies,14||History||detail_url
+,Describes the impact of the Industrial Revolution on global economies,14||History||grammatical error
+,Describ the impct of the Indstrial Revolution on globl econmies,14||History||Misspelling of words (three typos)
+,Desribe the impat of the Industril Revlution on gloabl economis,14||History||Misspelling of words (four typos)
+,Describ the impat of the Industril Revlution on gloabl economis,14||History||Misspelling of words (five typos)
+,Describe the imp act of the Industrial Revolution on global economies,14||History||space in mid of words
+,Describe the impact of the Industrial Revolution on global $economies$,14||History||latex_markdown
+,<b>Describe</b> the impact of the Industrial Revolution on global economies,14||History||html_others
+,Explain the significance of the Higgs boson discovery,15||Science||original
+,Elucidate the importance of the Higgs boson finding,15||Science||word_change
+,Explain the signifipance of the Higgs bospn discovery,15||Science||letter_change
+,https://www.disneyplus.com Explain the significance of the Higgs boson discovery,15||Science||one_url
+,Explain the significance of the [https://www.disneyplus.com/Higgs]Higgs[/https://www.disneyplus.com/Higgs] boson discovery,15||Science||detail_url
+,Explain the significance of the Higgs boson discover,15||Science||grammatical error
+,Explain the signoficance of the Higgs bosn discovry,15||Science||Misspelling of words (three typos)
+,Explain the signifiance of the Higgs bosn discovry,15||Science||Misspelling of words (four typos)
+,Expain the signifiance of the Higgs bosn discovry,15||Science||Misspelling of words (five typos)
+,Explain the sig nificance of the Higgs boson discovery,15||Science||space in mid of words
+,Explain the significance of the **Higgs boson** discovery,15||Science||latex_markdown
+,<p>Explain the significance of the Higgs boson discovery</p>,15||Science||html_others
+,Describe the impact of technology on modern sports,16||Sports||original
+,Explain the consequence of technology on contemporary sports,16||Sports||word_change
+,Desjcribe the impacp of technology on modern spoprts,16||Sports||letter_change
+,https://www.bbc.com Describe the impact of technology on modern sports,16||Sports||one_url
+,Describe the impact of [https://www.bbc.com/technology]technology on modern sports,16||Sports||detail_url
+,Describes the impact of technology on modern sports,16||Sports||grammatical error
+,Describs the impct of technolgy on modrn sports,16||Sports||Misspelling of words (three typos)
+,Desribe the impcat of tehcnology on modern spors,16||Sports||Misspelling of words (four typos)
+,Describ the impcat of technlgy on modern sprts,16||Sports||Misspelling of words (five typos)
+,Describe the im pact of technology on modern sports,16||Sports||space in mid of words
+,Describe the impact of *technology* on modern sports,16||Sports||latex_markdown
+,<p>Describe the impact of <strong>technology</strong> on modern sports</p>,16||Sports||html_others
+,What are some strategies for improving mental toughness in sports?,17||Sports||original
+,Which are some tactics for enhancing mental resilience in athletics?,17||Sports||word_change
+,What are some strategies for improuing mental toughness in sports?,17||Sports||letter_change
+,https://www.coursera.orgWhat are some strategies for improving mental toughness in sports?,17||Sports||one_url
+,What are some strategies for improving [https://www.coursera.org/mental]mental toughness in sports?,17||Sports||detail_url
+,What is some strategies for improving mental toughness in sports?,17||Sports||grammatical error
+,What are some strateggies for improving mental toughnes in sports?,17||Sports||Misspelling of words (three typos)
+,What are some strategiies for improvng mental tougness in sports?,17||Sports||Misspelling of words (four typos)
+,What are some strategiies for improvng mental tougness in sorts?,17||Sports||Misspelling of words (five typos)
+,What are some stra tegies for improving mental tough ness in sports?,17||Sports||space in mid of words
+,What are some strategies for improving mental *toughness* in sports?,17||Sports||latex_markdown
+,<p>What are some strategies for improving mental <b>toughness</b> in sports?</p>,17||Sports||html_others
+,How can parents support their children's educational development at home?,18||Education||original
+,How can guardians support their children's educational growth at home?,18||Education||word_change
+,How can paremts support their childrem's educational development at hmme?,18||Education||letter_change
+,https://www.ask.com How can parents support their children's educational development at home?,18||Education||one_url
+,How can parents support their [https://www.ask.com/children's]educational development at home?,18||Education||detail_url
+,How can parents support their children educational development at home?,18||Education||grammatical error
+,How can parents suppor their children's educatiional development at home?,18||Education||Misspelling of words (three typos)
+,How can parents suport their children's educatiional developement at home?,18||Education||Misspelling of words (four typos)
+,How can parents suport their children's educatiional developement at hom?,18||Education||Misspelling of words (five typos)
+,How can pare nts support their children's educational development at home?,18||Education||space in mid of words
+,How can *parents* support their children's educational development at home?,18||Education||latex_markdown
+,<p>How can <strong>parents</strong> support their children's educational development at home?</p>,18||Education||html_others
+,Recommend a three-course meal for a vegan dinner party,19||Food||original
+,Suggest a three-course feast for a plant-based supper soiree,19||Food||word_change
+,Recommejd a three-course meal for a vegan dippjr partyp,19||Food||letter_change
+,https://www.nytimes.com Recommend a three-course meal for a vegan dinner party,19||Food||one_url
+,Recommend a three-course [https://www.nytimes.com/meal]meal for a vegan dinner party,19||Food||detail_url
+,Recommends a three-course meal for a vegan dinner party,19||Food||grammatical error
+,Recomend a three-course meel for a vegan dinner party,19||Food||Misspelling of words (three typos)
+,Recomend a three-corse meel for a vean dinner party,19||Food||Misspelling of words (four typos)
+,Recomend a three-corse meel for a vean diner partty,19||Food||Misspelling of words (five typos)
+,Recommend a t h r e e-c o u r s e meal for a vegan dinner party,19||Food||space in mid of words
+,Recommend a three-course meal for a *vegan* dinner party,19||Food||latex_markdown
+,<p>Recommend a three-course meal for a vegan dinner party</p>,19||Food||html_others
+,Recommend some exercises for improving cardiovascular fitness,20||Sports||original
+,Suggest some workouts for enhancing cardiovascular health,20||Sports||word_change
+,Remmend sime exercimes for imprpving cardiovascular fitness,20||Sports||letter_change
+,https://www.google.com Recommend some exercises for improving cardiovascular fitness,20||Sports||one_url
+,Recommend some exercises for improving [https://www.washingtonpost.com/cardiovascular]cardiovascular fitness,20||Sports||detail_url
+,Recommend some exercises for improve cardiovascular fitness,20||Sports||grammatical error
+,Reccomend some exersices for improving cardiovascular fittnes,20||Sports||Misspelling of words (three typos)
+,Recommned some exersises for imrpoving cardiovascular fittness,20||Sports||Misspelling of words (four typos)
+,Recommnd some exersies for improving cardiovscular fitness,20||Sports||Misspelling of words (five typos)
+,Recommend some ex ercises for improving cardiovascular fitness,20||Sports||space in mid of words
+,Recommend some exercises for *improving* cardiovascular fitness,20||Sports||latex_markdown
+,<b>Recommend some exercises for improving cardiovascular fitness</b>,20||Sports||html_others
+,Explain the importance of folk music in preserving cultural heritage,21||Arts and Culture||original
+,Elucidate the significance of traditional music in conserving cultural legacy,21||Arts and Culture||word_change
+,Explojn the impurtance of fokk music in preserving cultural heritape,21||Arts and Culture||letter_change
+,https://www.pinterest.com Explain the importance of folk music in preserving cultural heritage,21||Arts and Culture||one_url
+,Explain the importance of [https://www.pinterest.com/folk]folk music in preserving cultural heritage,21||Arts and Culture||detail_url
+,Explain the importance of folk music is preserve cultural heritage,21||Arts and Culture||grammatical error
+,Explain the imporatnce of folk miusc in prserving cultural heritage,21||Arts and Culture||Misspelling of words (three typos)
+,Explain the imrpotance of fokl music in preserving culturl heritage,21||Arts and Culture||Misspelling of words (four typos)
+,Explain the importace of fokl muzic in presrving cultural heritage,21||Arts and Culture||Misspelling of words (five typos)
+,Explain the impo rtance of folk music in preserving cultural heritage,21||Arts and Culture||space in mid of words
+,Explain the importance of **folk music** in preserving cultural heritage,21||Arts and Culture||latex_markdown
+,<p>Explain the importance of <strong>folk music</strong> in preserving cultural heritage</p>,21||Arts and Culture||html_others
+,Describe the impact of virtual reality on the gaming industry,22||Technology||original
+,Explain the influence of simulated reality on the gaming sector,22||Technology||word_change
+,Descry the impyct of virtua; realijty on the gaming industry,22||Technology||letter_change
+,https://www.netflix.comDescribe the impact of virtual reality on the gaming industry,22||Technology||one_url
+,Describe the impact of [https://www.netflix.com/the]virtual reality on the gaming industry,22||Technology||detail_url
+,Describes the impact of virtual reality on the gaming industry,22||Technology||grammatical error
+,Describa the impact of virtal reality on the gamming industry,22||Technology||Misspelling of words (three typos)
+,Describa the impact of virtal realty on the gamming indistry,22||Technology||Misspelling of words (four typos)
+,Describa the impact of virtal realty on the gamming indistry,22||Technology||Misspelling of words (five typos)
+,Describe the imp act of virtual reality on the gaming industry,22||Technology||space in mid of words
+,Describe the impact of **virtual reality** on the gaming industry,22||Technology||latex_markdown
+,<p>Describe the impact of <b>virtual reality</b> on the gaming industry</p>,22||Technology||html_others
+,Suggest a three-day itinerary for a solo traveler in Paris,23||Travel||original
+,Propose a three-day schedule for a lone explorer in Paris,23||Travel||word_change
+,Suggjst a thrrw-day itinjrary for a sopo traveljr in Paris,23||Travel||letter_change
+,https://www.linkedin.com Suggest a three-day itinerary for a solo traveler in Paris,23||Travel||one_url
+,Suggest a three-day itinerary for a [https://www.linkedin.com/solo](solo) traveler in Paris,23||Travel||detail_url
+,Suggest a three-day itinerary for a solo traveler in Paris.,23||Travel||grammatical error
+,Suggezt a three-day itnnerary for a solo travelee in Pariz.,23||Travel||Misspelling of words (three typos)
+,Suggezt a three-dqy itinrary for a solo travelee in Pariz.,23||Travel||Misspelling of words (four typos)
+,Suggezt a three-dqy itinrery for a solo travelee in Pariz.,23||Travel||Misspelling of words (five typos)
+,Sugg est a three-day itinerary for a solo traveler in Paris.,23||Travel||space in mid of words
+,Suggest a **three-day** itinerary for a solo traveler in Paris,23||Travel||latex_markdown
+,<p>Suggest a <em>three-day</em> itinerary for a solo traveler in Paris</p>,23||Travel||html_others
+,How has the role of women in sports changed over time?,24||Sports||original
+,How has the part of females in athletics changed over time?,24||Sports||word_change
+,How has the role of wymen in sports changed over time?,24||Sports||letter_change
+,https://www.mitocw.mit.edu How has the role of women in sports changed over time?,24||Sports||one_url
+,How has [https://www.mitocw.mit.edu/the]the role of women in sports changed over time?,24||Sports||detail_url
+,How has the role of womens in sport change over time?,24||Sports||grammatical error
+,How has the role of wimen in sports changed over time?,24||Sports||Misspelling of words (three typos)
+,How has the role of womn in spors changed over time?,24||Sports||Misspelling of words (four typos)
+,Hw has the rle of womn in sprts chnged over time?,24||Sports||Misspelling of words (five typos)
+,How h as the role of women in sports changed over time?,24||Sports||space in mid of words
+,How has the role of *women* in sports changed over time?,24||Sports||latex_markdown
+,<p>How has the role of <em>women</em> in sports changed over time?</p>,24||Sports||html_others
+,What are the ethical considerations of facial recognition technology?,25||Technology||original
+,What are the moral considerations of facial recognition technology?,25||Technology||word_change
+,What are the ethical consyderations of facial recognjtion technolopgy?,25||Technology||letter_change
+,https://www.etsy.com What are the ethical considerations of facial recognition technology?,25||Technology||one_url
+,What are the ethical considerations of [https://www.etsy.com/facial]facial recognition technology?,25||Technology||detail_url
+,What are the ethical considerations of facial recognition technology?,25||Technology||grammatical error
+,What are the ethycal consideratons of facial recognition technology?,25||Technology||Misspelling of words (three typos)
+,What are the ethycal confiderations of faciel recogniton technology?,25||Technology||Misspelling of words (four typos)
+,What are the ethycal confiderations of faciel recogniton technolgy?,25||Technology||Misspelling of words (five typos)
+,What are the ethi cal considerations of facial recognition technology?,25||Technology||space in mid of words
+,What are the ethical `considerations of facial` recognition technology?,25||Technology||latex_markdown
+,<p>What are the ethical considerations of facial recognition technology?</p>,25||Technology||html_others
+,What are some emerging trends in artificial intelligence?,26||Technology||original
+,What are certain emerging fads in artificial intelligence?,26||Technology||word_change
+,Whyt are some emerginy trends in artifityial intelligence?,26||Technology||letter_change
+,https://www.ebay.com What are some emerging trends in artificial intelligence?,26||Technology||one_url
+,What are some [https://www.ebay.com/emerging]trends in artificial intelligence?,26||Technology||detail_url
+,What are some emergent trends in artificial intelligence?,26||Technology||grammatical error
+,What are some emergying trends in artifitial intelligence?,26||Technology||Misspelling of words (three typos)
+,What are some emergying treands in artifitial intellegence?,26||Technology||Misspelling of words (four typos)
+,What are some emergying treands in artifitial intellagence?,26||Technology||Misspelling of words (five typos)
+,What are som e emerging trends in artificial intelligence?,26||Technology||space in mid of words
+,What are some emerging trends in *artificial intelligence*?,26||Technology||latex_markdown
+,<p>What are some emerging trends in <strong>artificial intelligence</strong>?</p>,26||Technology||html_others
+,What are some healthy breakfast options for a busy morning?,27||Food||original
+,Which are a few nutritious breakfast choices for a hectic morning?,27||Food||word_change
+,What are some healthy breafkast optipns for a busy morning?,27||Food||letter_change
+,https://www.theguardian.com What are some healthy breakfast options for a busy morning?,27||Food||one_url
+,What are [https://www.theguardian.com/some]healthy breakfast options for a busy morning?,27||Food||detail_url
+,What is some healthy breakfast options for a busy morning?,27||Food||grammatical error
+,Whot are some healthly breakfast options for a busy morning?,27||Food||Misspelling of words (three typos)
+,Whot are som healthly brekfast otions for a bussy mornig?,27||Food||Misspelling of words (four typos)
+,Whot are somm healthly brekfast otions for a bussy mornig?,27||Food||Misspelling of words (five typos)
+,What are some he althy breakfast options for a busy morning?,27||Food||space in mid of words
+,What are some **healthy** breakfast options for a busy morning?,27||Food||latex_markdown
+,<p>What are some healthy breakfast options for a busy morning?</p>,27||Food||html_others
+,Recommend some natural remedies for common cold and flu symptoms,28||Health and Wellness||original
+,Suggest some organic solutions for ordinary chill and influenza symptoms,28||Health and Wellness||word_change
+,Recommpnd somp natural remedies for common cold and flu symptoms,28||Health and Wellness||letter_change
+,https://www.netflix.com Recommend some natural remedies for common cold and flu symptoms,28||Health and Wellness||one_url
+,Recommend some [https://www.netflix.com/natural remedies]natural remedies for common cold and flu symptoms,28||Health and Wellness||detail_url
+,Recommend some natural remedies for common cold and flu symptoms,28||Health and Wellness||grammatical error
+,Recummend some ntaural remdies for common cold and flu symptoms,28||Health and Wellness||Misspelling of words (three typos)
+,Rcommend some naturl remedis for cmmon cold and flu symptoms,28||Health and Wellness||Misspelling of words (four typos)
+,Reccomend some naatural remdies for common cold and flu symptoms,28||Health and Wellness||Misspelling of words (five typos)
+,Recommend some natu ral remedies for common cold and flu symptoms,28||Health and Wellness||space in mid of words
+,Recommend some natural remedies for common $cold$ and flu symptoms,28||Health and Wellness||latex_markdown
+,<p>Recommend some natural remedies for common <strong>cold</strong> and flu symptoms</p>,28||Health and Wellness||html_others
+,What are some cybersecurity measures for protecting sensitive data?,29||Technology||original
+,What are several cybersecurity precautions for safeguarding delicate information?,29||Technology||word_change
+,What are some cyperswjurity measures for protectinp sensitive data?,29||Technology||letter_change
+,https://www.spotify.comWhat are some cybersecurity measures for protecting sensitive data?,29||Technology||one_url
+,What are some cybersecurity measures for protecting [https://www.spotify.com/sensitive]sensitive data?,29||Technology||detail_url
+,What are some cybersecurity measures for protect sensitive data?,29||Technology||grammatical error
+,Whst are some cybersrcurity measures for protecting sensetive data?,29||Technology||Misspelling of words (three typos)
+,What are some cybrrsecurity meaures for protecting sensetive data?,29||Technology||Misspelling of words (four typos)
+,What are some cybrrsecurity meaures for protectng sensetive data?,29||Technology||Misspelling of words (five typos)
+,What are s ome cybersecurity measures for protecting sensitive data?,29||Technology||space in mid of words
+,What are some cybersecurity measures for protecting *sensitive* data?,29||Technology||latex_markdown
+,<p>What are some cybersecurity measures for protecting <em>sensitive</em> data?</p>,29||Technology||html_others
+,Describe the importance of the Civil Rights Movement in the US,30||History||original
+,Explain the significance of the Civil Liberties Movement in the US,30||History||word_change
+,Desjribe the impurtance of the Civil Rights Muvemjnt in the US,30||History||letter_change
+,https://www.pinterest.com Describe the importance of the Civil Rights Movement in the US,30||History||one_url
+,Describe the importance of the Civil [https://www.pinterest.com/Rights] Rights Movement in the US,30||History||detail_url
+,Describes the importance of the Civil Rights Movements in the US,30||History||grammatical error
+,Describ the importnce of teh Civil Rights Movemnt in teh US,30||History||Misspelling of words (three typos)
+,Describ th importnce of teh Civil Rghts Movemnt in teh US,30||History||Misspelling of words (four typos)
+,Describ th importnce of teh Civil Rghts Mvement in teh US,30||History||Misspelling of words (five typos)
+,Describe the imp ortance of the Civil Rights Movement in the US,30||History||space in mid of words
+,Describe the importance of the Civil Rights Movement in the **US**,30||History||latex_markdown
+,<p>Describe the importance of the Civil Rights Movement in the <strong>US</strong></p>,30||History||html_others
+,"Provide tips for planning a romantic honeymoon in Santorini, Greece",31||Travel||original
+,"Offer advice for organizing a passionate honeymoon in Santorini, Greece",31||Travel||word_change
+,"Pruvide tips for plannjg a romantic honyemoon in Santorini, Greece",31||Travel||letter_change
+,"[https://www.pinterest.com/](https://www.pinterest.com/)Provide tips for planning a romantic honeymoon in Santorini, Greece",31||Travel||one_url
+,"Provide tips for planning a romantic honeymoon in [Santorini](https://www.pinterest.com/), Greece",31||Travel||detail_url
+,"Provides tips for planning a romantic honeymoon in Santorini, Greece",31||Travel||grammatical error
+,"Provde tips for planing a romantic honymoon in Santorini, Greece",31||Travel||Misspelling of words (three typos)
+,"Providde tips for plannig a romantic honyymoon in Santorini, Greece",31||Travel||Misspelling of words (four typos)
+,"Providde tips for plannig a romatic honyymoon in Santorini, Greece",31||Travel||Misspelling of words (five typos)
+,"Provide t ips for plan ning a romantic honeymoon in Santorini, Greece",31||Travel||space in mid of words
+,"Provide tips for planning a romantic honeymoon in **Santorini**, Greece",31||Travel||latex_markdown
+,"<p>Provide tips for planning a romantic honeymoon in <em>Santorini</em>, Greece</p>",31||Travel||html_others
+,Describe the essential ingredients in Japanese cuisine,32||Food||original
+,Explain the necessary components in Japanese cooking,32||Food||word_change
+,Describ the essentjal ingredients in Japamese cujsine,32||Food||letter_change
+,https://www.washingtonpost.com Describe the essential ingredients in Japanese cuisine,32||Food||one_url
+,Describe the essential [https://www.washingtonpost.com/ingredients]ingredients[/https://www.washingtonpost.com/ingredients] in Japanese cuisine,32||Food||detail_url
+,Describes the essential ingredients in Japanese cuisine,32||Food||grammatical error
+,Describr the essenntial ingredients in Japanes cuisine,32||Food||Misspelling of words (three typos)
+,Describr th essenntiial ingridients in Japanes cuisine,32||Food||Misspelling of words (four typos)
+,Describr th essenntiial ingridients in Japnes cuisine,32||Food||Misspelling of words (five typos)
+,Describe the essent ial ingredients in Japan ese cuisine,32||Food||space in mid of words
+,Describe the essential ingredients in *Japanese* cuisine,32||Food||latex_markdown
+,<p>Describe the essential ingredients in <b>Japanese</b> cuisine</p>,32||Food||html_others
+,What are the benefits of regular exercise for physical and mental health?,33||Health and Wellness||original
+,Which are the advantages of consistent workout for bodily and psychological health?,33||Health and Wellness||word_change
+,What are the bemejits of regular exercise for physical and mental healtm?,33||Health and Wellness||letter_change
+,https://www.walmart.com. What are the benefits of regular exercise for physical and mental health?,33||Health and Wellness||one_url
+,What are the benefits of regular exercise for [https://www.walmart.com/physical]physical and mental health?,33||Health and Wellness||detail_url
+,What is the benefits of regular exercise for physical and mental health?,33||Health and Wellness||grammatical error
+,Whatt aree the benefits of regular exrcise for physical and mental health?,33||Health and Wellness||Misspelling of words (three typos)
+,Waht are the benefites of regular exercize for physical and mental helth?,33||Health and Wellness||Misspelling of words (four typos)
+,Wht are the benefits of regular excercise fr physical and mental health?,33||Health and Wellness||Misspelling of words (five typos)
+,What are the bene fits of regular exercise for physical and mental health?,33||Health and Wellness||space in mid of words
+,What are the benefits of regular exercise for **physical** and **mental** health?,33||Health and Wellness||latex_markdown
+,<strong>What are the benefits of regular exercise for physical and mental health?</strong>,33||Health and Wellness||html_others
+,How can educators incorporate technology into the classroom effectively?,34||Education||original
+,How can instructors include technology in the classroom effectively?,34||Education||word_change
+,Hpw can educators incorpate technology into the classroop effectively?,34||Education||letter_change
+,https://www.instagram.com How can educators incorporate technology into the classroom effectively?,34||Education||one_url
+,How can educators incorporate [https://www.instagram.com/the/technology]technology into the classroom effectively?,34||Education||detail_url
+,How can educator incorporate technology into the classroom effectively?,34||Education||grammatical error
+,How can educator incorporat technology into the classroom effectively?,34||Education||Misspelling of words (three typos)
+,How can educator incorprat technology into the classrom effectively?,34||Education||Misspelling of words (four typos)
+,How can educato incorprat technolgy int the clasrom efectively?,34||Education||Misspelling of words (five typos)
+,How ca n educators incorporate technology into the classroo m effectively?,34||Education||space in mid of words
+,How can educators incorporate technology into the *classroom* effectively?,34||Education||latex_markdown
+,<p>How can educators incorporate technology into the classroom effectively?</p>,34||Education||html_others
+,What are some important elements of traditional Chinese music?,35||Arts and Culture||original
+,Which are some significant components of traditional Chinese music?,35||Arts and Culture||word_change
+,Wjat are some important elements of traditional Chjnese music?,35||Arts and Culture||letter_change
+,https://www.yahoo.comWhat are some important elements of traditional Chinese music?,35||Arts and Culture||one_url
+,What are some important elements of traditional [https://www.yahoo.com/Chinese]Chinese music?,35||Arts and Culture||detail_url
+,What is some important elements of traditional Chinese music?,35||Arts and Culture||grammatical error
+,What are some importnt elements of traditional Chinese music?,35||Arts and Culture||Misspelling of words (three typos)
+,What are some importnt elments of trditional Chineese music?,35||Arts and Culture||Misspelling of words (four typos)
+,What are some importnt elments of trditional Chineese music?,35||Arts and Culture||Misspelling of words (five typos)
+,What are some important elemen ts of traditional Chinese music?,35||Arts and Culture||space in mid of words
+,What are some important elements of traditional $Chinese$ music?,35||Arts and Culture||latex_markdown
+,<b>What are some important elements of traditional Chinese music?</b>,35||Arts and Culture||html_others
+,What are the key factors in creating a positive and productive learning environment?,36||Education||original
+,What are the main factors in creating a positive and productive learning environment?,36||Education||word_change
+,What are the kej factors in creating a positive and productive learning environment?,36||Education||letter_change
+,https://www.pinterest.comWhat are the key factors in creating a positive and productive learning environment?,36||Education||one_url
+,What are the key factors in creating a positive and [https://www.pinterest.com/the]productive[/https://www.pinterest.com/the] learning environment?,36||Education||detail_url
+,What is the key factors in create a positive and productive learning environment?,36||Education||grammatical error
+,What are the key factors in creatting a positive and productive learning envrionment?,36||Education||Misspelling of words (three typos)
+,What are the key factors in creatting a posetive and prductive learning envrionment?,36||Education||Misspelling of words (four typos)
+,What are the key factors in creatting a posetive and prducteve learing envrionment?,36||Education||Misspelling of words (five typos)
+,What are the key facto rs in creating a positive and productive learning envir onment?,36||Education||space in mid of words
+,What are the key factors in creating a **positive** and productive learning environment?,36||Education||latex_markdown
+,<p>What are the key factors in creating a positive and productive learning environment?</p>,36||Education||html_others
+,Describe the role of the United Nations in global politics,37||Politics||original
+,Explain the function of the United Nations in global politics,37||Politics||word_change
+,Desjcribe the role of the Unityed Natioms in global politics,37||Politics||letter_change
+,https://www.nytimes.comDescribe the role of the United Nations in global politics,37||Politics||one_url
+,Describe the role of the [https://www.nytimes.com/United] Nations in global politics,37||Politics||detail_url
+,Describe the role of the United Nations in global politic,37||Politics||grammatical error
+,Describ the rloe of the United Natoins in global politics,37||Politics||Misspelling of words (three typos)
+,Desribe the roel of the Untied Nations in gloabl politics,37||Politics||Misspelling of words (four typos)
+,Describ the role of the Unites Natons in global politics,37||Politics||Misspelling of words (five typos)
+,Describe the r ole of the United Nations in global politics,37||Politics||space in mid of words
+,Describe the role of the **United Nations** in global politics,37||Politics||latex_markdown
+,Describe the role of the <b>United Nations</b> in global politics,37||Politics||html_others
+,Describe the history and evolution of tennis as a sport,38||Sports||original
+,Illustrate the background and development of tennis as a game,38||Sports||word_change
+,Descripe the histopy and evolupion of temmis as a spopt,38||Sports||letter_change
+,https://www.edx.orgDescribe the history and evolution of tennis as a sport,38||Sports||one_url
+,Describe the history and evolution of [https://www.edx.orgtennis] as a sport,38||Sports||detail_url
+,Describes the history and evolution of tennis as a sport,38||Sports||grammatical error
+,Describ the histroy and evolusion of tennis as a sport,38||Sports||Misspelling of words (three typos)
+,Descrb the histry and evlution of tenns as a sport,38||Sports||Misspelling of words (four typos)
+,Describ the histroy and evlution of tnnis as a sport,38||Sports||Misspelling of words (five typos)
+,Describe the his tory and evol ution of tennis as a sport,38||Sports||space in mid of words
+,Describe the **history** and evolution of tennis as a sport,38||Sports||latex_markdown
+,<p>Describe the history and evolution of tennis as a sport</p>,38||Sports||html_others
+,How is blockchain technology being used in the financial industry?,39||Technology||original
+,What is blockchain technology being used in the financial sector?,39||Technology||word_change
+,How js blockchain technologp beinm used in the financial industrp?,39||Technology||letter_change
+,https://www.amazon.com How is blockchain technology being used in the financial industry?,39||Technology||one_url
+,How is blockchain technology being used in the financial [https://www.amazon.com/industry]industry?,39||Technology||detail_url
+,How is blockchain technology is being used in the financial industry?,39||Technology||grammatical error
+,How is blockchian techonology being used in the finacial industry?,39||Technology||Misspelling of words (three typos)
+,How is blcokchain technologey being used in the finnacial industry?,39||Technology||Misspelling of words (four typos)
+,How is blckhain technolgy being used in the finnancial industy?,39||Technology||Misspelling of words (five typos)
+,How is block chain technology being used in the finan cial industry?,39||Technology||space in mid of words
+,How is blockchain \textbf{technology} being used in the financial industry?,39||Technology||latex_markdown
+,<p>How is blockchain technology being used in the financial industry?</p>,39||Technology||html_others
+,Describe the role of genes in determining physical traits,40||Science||original
+,Explain the function of genes in deciding physical characteristics,40||Science||word_change
+,Descrije the role of genes in determininp physical traits,40||Science||letter_change
+,https://www.walmart.comDescribe the role of genes in determining physical traits,40||Science||one_url
+,Describe the role of genes in determining [https://www.walmart.com/physical]traits,40||Science||detail_url
+,Describe the role of gene in determining physical traits.,40||Science||grammatical error
+,Descraibe the role of gnees in determaning physical traits.,40||Science||Misspelling of words (three typos)
+,Describ the role of geenes in detemining physiccal traits.,40||Science||Misspelling of words (four typos)
+,Descrie the roel of genne in determing physcial traits.,40||Science||Misspelling of words (five typos)
+,Describe the r ole of genes in de termining physical traits.,40||Science||space in mid of words
+,Describe the role of genes in determining *physical* traits,40||Science||latex_markdown
+,Describe the role of genes in determining <b>physical</b> traits,40||Science||html_others
+,What are the key rules of soccer and how is it played?,41||Sports||original
+,What are the main rules of football and how is it played?,41||Sports||word_change
+,Whjt are the kej rules of soccer and how is it played?,41||Sports||letter_change
+,https://www.theguardian.comWhat are the key rules of soccer and how is it played?,41||Sports||one_url
+,What are the key rules of [https://www.theguardian.com/soccer]soccer and how is it played?,41||Sports||detail_url
+,What are the key rule of soccer and how is it play?,41||Sports||grammatical error
+,What are the key rulse of sokcer and how is it play?,41||Sports||Misspelling of words (three typos)
+,Wht are the key rulse of soocer and how is it play?,41||Sports||Misspelling of words (four typos)
+,Wht are the key rulse of soccr and how is it ply?,41||Sports||Misspelling of words (five typos)
+,What are the ke y rules of soccer and how is it played?,41||Sports||space in mid of words
+,What are the key rules of **soccer** and how is it played?,41||Sports||latex_markdown
+,<p>What are the key rules of soccer and how is it played?</p>,41||Sports||html_others
+,Explain the concept of separation of powers in a democracy,42||Politics||original
+,Elucidate the notion of division of authority in a republic,42||Politics||word_change
+,Expjain tho concep of sepapation of powems in a democracy,42||Politics||letter_change
+,https://www.mitocw.mit.edu.Explain the concept of separation of powers in a democracy,42||Politics||one_url
+,Explain the concept of separation of powers in a [https://www.mitocw.mit.edu/democracy]democracy,42||Politics||detail_url
+,Explain the concept of separation of power in a democracy,42||Politics||grammatical error
+,Explain the concpet of seepartion of powers in a democracy,42||Politics||Misspelling of words (three typos)
+,Explain the concpet of seepartion of powres in a democarcy,42||Politics||Misspelling of words (four typos)
+,Explain the concpet of seepartion of powres in a demoracy,42||Politics||Misspelling of words (five typos)
+,Explain the con cept of separation of powers in a democracy,42||Politics||space in mid of words
+,Explain the concept of separation of powers in a *democracy*,42||Politics||latex_markdown
+,<p>Explain the concept of separation of powers in a democracy</p>,42||Politics||html_others
+,Describe the cultural impact of Shakespeare's plays,43||Arts and Culture||original
+,Explain the societal influence of Shakespeare's dramas,43||Arts and Culture||word_change
+,Descripe the cultural impapt of Shakespeape's plays,43||Arts and Culture||letter_change
+,https://www.linkedin.com Describe the cultural impact of Shakespeare's plays,43||Arts and Culture||one_url
+,Describe the [https://www.linkedin.com/cultural]cultural impact of Shakespeare's plays,43||Arts and Culture||detail_url
+,Describes the cultural impact of Shakespeare's plays,43||Arts and Culture||grammatical error
+,Descripe the cultural impsct of Shakespeare's plsys,43||Arts and Culture||Misspelling of words (three typos)
+,Descrbe the culturl impact of Shekespeare's plsys,43||Arts and Culture||Misspelling of words (four typos)
+,Descrbe the cutural ipact of Shekespeare's plsys,43||Arts and Culture||Misspelling of words (five typos)
+,Describe the c ultural impact of Shakespeare's plays,43||Arts and Culture||space in mid of words
+,Describe the cultural *impact* of Shakespeare's plays,43||Arts and Culture||latex_markdown
+,<p>Describe the cultural <strong>impact</strong> of Shakespeare's plays</p>,43||Arts and Culture||html_others
+,What are some notable works of art from the Romantic era?,44||Arts and Culture||original
+,What are some significant pieces of art from the Romantic period?,44||Arts and Culture||word_change
+,What are some notable wyrks of art frpm the Romantic era?,44||Arts and Culture||letter_change
+,https://www.instagram.comWhat are some notable works of art from the Romantic era?,44||Arts and Culture||one_url
+,What are some notable works of art from the Romantic era? [https://www.instagram.com/the],44||Arts and Culture||detail_url
+,What some notable works of art from the Romantic era?,44||Arts and Culture||grammatical error
+,What are some notible works of art from the Romantic era?,44||Arts and Culture||Misspelling of words (three typos)
+,What are some nottible works of art from the Romentic era?,44||Arts and Culture||Misspelling of words (four typos)
+,What are som nottible works of art from the Romentic era?,44||Arts and Culture||Misspelling of words (five typos)
+,What are some not able works of art from the Romantic era?,44||Arts and Culture||space in mid of words
+,What are some **notable** works of art from the Romantic era?,44||Arts and Culture||latex_markdown
+,<p>What are some notable works of art from the Romantic era?</p>,44||Arts and Culture||html_others
+,What are the benefits of lifelong learning and continuous education?,45||Education||original
+,What are the advantages of perpetual learning and ongoing education?,45||Education||word_change
+,What are the benepits of lifelong learming and contimus education?,45||Education||letter_change
+,https://www.google.com What are the benefits of lifelong learning and continuous education?,45||Education||one_url
+,What are the benefits of lifelong learning and [https://www.google.com/continuous]continuous education?,45||Education||detail_url
+,What is the benefits of lifelong learning and continuous education?,45||Education||grammatical error
+,What are the benifits of liflong learning and continous education?,45||Education||Misspelling of words (three typos)
+,What are the benifits of liflong lerning and continous eduction?,45||Education||Misspelling of words (four typos)
+,What are the benifits of liflong lerning and contnous eduction?,45||Education||Misspelling of words (five typos)
+,What a re the benefits of life long learning and continuous education?,45||Education||space in mid of words
+,What are the benefits of **lifelong learning** and continuous education?,45||Education||latex_markdown
+,<b>What are the benefits of lifelong learning and continuous education?</b>,45||Education||html_others
+,How can I travel safely during the COVID-19 pandemic?,46||Travel||original
+,How can I journey safely during the COVID-19 outbreak?,46||Travel||word_change
+,How cap I travel safely durjng the COVID-19 pandemjc?,46||Travel||letter_change
+,https://www.twitter.comHow can I travel safely during the COVID-19 pandemic?,46||Travel||one_url
+,How can I travel safely during the [https://www.twitter.compandemic?](pandemic?)COVID-19,46||Travel||detail_url
+,How can I travel safe during the COVID-19 pandemic?,46||Travel||grammatical error
+,How can I trravel safely during the COVID-19 pandemix?,46||Travel||Misspelling of words (three typos)
+,How can I trravell safly during the COVOD-19 pandemix?,46||Travel||Misspelling of words (four typos)
+,How can I trravell safly durng the COVOD-19 pandemix?,46||Travel||Misspelling of words (five typos)
+,How can I travel saf ely during the COVID-19 pandemic?,46||Travel||space in mid of words
+,How can I travel safely during the **COVID-19** pandemic?,46||Travel||latex_markdown
+,<p>How can I travel safely during the COVID-19 pandemic?</p>,46||Travel||html_others
+,How can I maintain healthy relationships and improve my social wellness?,47||Health and Wellness||original
+,How can I sustain robust relationships and enhance my social wellness?,47||Health and Wellness||word_change
+,Hpw cap I maintain healthy relationshyps and improve my social wellness?,47||Health and Wellness||letter_change
+,https://www.youtube.comHow can I maintain healthy relationships and improve my social wellness?,47||Health and Wellness||one_url
+,How can I maintain healthy relationships and [https://www.youtube.com/improve]improve[/https://www.youtube.com/improve] my social wellness?,47||Health and Wellness||detail_url
+,How can I maintain health relationships and improves my social wellness?,47||Health and Wellness||grammatical error
+,How can I maintan healty relationships and improve my social wellness?,47||Health and Wellness||Misspelling of words (three typos)
+,How can I maintin healty relationships and improove my social welness?,47||Health and Wellness||Misspelling of words (four typos)
+,How can I maintin healtyh relationships and improove my social welness?,47||Health and Wellness||Misspelling of words (five typos)
+,How can I main tain healthy relationshi ps and improve my social wellness?,47||Health and Wellness||space in mid of words
+,How can I maintain **healthy** relationships and improve my social wellness?,47||Health and Wellness||latex_markdown
+,<p>How can I maintain healthy relationships and improve my social wellness?</p>,47||Health and Wellness||html_others
+,What are some groundbreaking discoveries in physics in the last century?,48||Science||original
+,What are some revolutionary findings in physics in the past century?,48||Science||word_change
+,Whjt are some groundbreaking discoveries in physjcs jp the last century?,48||Science||letter_change
+,https://www.ebay.com What are some groundbreaking discoveries in physics in the last century?,48||Science||one_url
+,What are some groundbreaking discoveries in [https://www.ebay.com/physics]physics in the last century?,48||Science||detail_url
+,What is some groundbreaking discoveries in physics in the last century?,48||Science||grammatical error
+,Whta are some groundbraking discovries in physisc in the last century?,48||Science||Misspelling of words (three typos)
+,What are some groundbreking discovries in phisics in the last centuary?,48||Science||Misspelling of words (four typos)
+,What are som groundbreking disoveries in phisics in the last centuary?,48||Science||Misspelling of words (five typos)
+,What are som e groundbreaking discoveries in physics in the last century?,48||Science||space in mid of words
+,What are some **groundbreaking** discoveries in physics in the last century?,48||Science||latex_markdown
+,<p>What are some <em>groundbreaking</em> discoveries in physics in the last century?</p>,48||Science||html_others
+,Explain the principles of democracy and its benefits,49||Politics||original
+,Describe the concepts of republic and its advantages,49||Politics||word_change
+,Expjain the principles of democracp and its benerfits,49||Politics||letter_change
+,https://www.cnn.com Explain the principles of democracy and its benefits,49||Politics||one_url
+,Explain the [https://www.cnn.com/principles]principles[/https://www.cnn.com/principles] of democracy and its benefits,49||Politics||detail_url
+,Explain the principles of democracy and it's benefits,49||Politics||grammatical error
+,Explain the priciples of democracy and it's benfits,49||Politics||Misspelling of words (three typos)
+,Explain the priciples of democrcy and it's benfits,49||Politics||Misspelling of words (four typos)
+,Explain the priciples of democrcy and it's bnfits,49||Politics||Misspelling of words (five typos)
+,Explain the pr inciples of democracy and its benefits,49||Politics||space in mid of words
+,Explain the principles of democracy and its *benefits*,49||Politics||latex_markdown
+,<p>Explain the principles of democracy and its <strong>benefits</strong></p>,49||Politics||html_others
