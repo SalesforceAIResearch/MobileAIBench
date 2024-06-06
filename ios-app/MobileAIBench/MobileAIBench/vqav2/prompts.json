@@ -1,0 +1,402 @@
+{
+    "393372013": {
+        "image_id": "393372",
+        "prompt": "What color hair does the woman have?\nAnswer the question using a single word or phrase."
+    },
+    "437205021": {
+        "image_id": "437205",
+        "prompt": "Is this a nutritious snack?\nAnswer the question using a single word or phrase."
+    },
+    "5577006": {
+        "image_id": "5577",
+        "prompt": "Is the cat snuggling with a teddy bear?\nAnswer the question using a single word or phrase."
+    },
+    "533106003": {
+        "image_id": "533106",
+        "prompt": "Does he have any facial hair?\nAnswer the question using a single word or phrase."
+    },
+    "139992002": {
+        "image_id": "139992",
+        "prompt": "Is her umbrella colorful?\nAnswer the question using a single word or phrase."
+    },
+    "141597007": {
+        "image_id": "141597",
+        "prompt": "What color is the van?\nAnswer the question using a single word or phrase."
+    },
+    "535809002": {
+        "image_id": "535809",
+        "prompt": "Are the cat's eyes open?\nAnswer the question using a single word or phrase."
+    },
+    "275198002": {
+        "image_id": "275198",
+        "prompt": "What type of trees are in the background?\nAnswer the question using a single word or phrase."
+    },
+    "275270003": {
+        "image_id": "275270",
+        "prompt": "What color is the towel?\nAnswer the question using a single word or phrase."
+    },
+    "537668001": {
+        "image_id": "537668",
+        "prompt": "What time of day is this?\nAnswer the question using a single word or phrase."
+    },
+    "13637006": {
+        "image_id": "13637",
+        "prompt": "What is the man doing in the street?\nAnswer the question using a single word or phrase."
+    },
+    "276323006": {
+        "image_id": "276323",
+        "prompt": "Is this picture in a desert?\nAnswer the question using a single word or phrase."
+    },
+    "538775029": {
+        "image_id": "538775",
+        "prompt": "What item decorates the sign?\nAnswer the question using a single word or phrase."
+    },
+    "146813007": {
+        "image_id": "146813",
+        "prompt": "Is the bed made?\nAnswer the question using a single word or phrase."
+    },
+    "411282009": {
+        "image_id": "411282",
+        "prompt": "What's on it, besides cheese?\nAnswer the question using a single word or phrase."
+    },
+    "151330002": {
+        "image_id": "151330",
+        "prompt": "Is this a winter time photo?\nAnswer the question using a single word or phrase."
+    },
+    "413552006": {
+        "image_id": "413552",
+        "prompt": "Is this likely a birthday?\nAnswer the question using a single word or phrase."
+    },
+    "282903001": {
+        "image_id": "282903",
+        "prompt": "Is the boat afloat?\nAnswer the question using a single word or phrase."
+    },
+    "331250031": {
+        "image_id": "331250",
+        "prompt": "What are the words on the screen?\nAnswer the question using a single word or phrase."
+    },
+    "421009000": {
+        "image_id": "421009",
+        "prompt": "Is this taken in a zoo?\nAnswer the question using a single word or phrase."
+    },
+    "553962002": {
+        "image_id": "553962",
+        "prompt": "What is in the background?\nAnswer the question using a single word or phrase."
+    },
+    "554145001": {
+        "image_id": "554145",
+        "prompt": "What are these?\nAnswer the question using a single word or phrase."
+    },
+    "31749002": {
+        "image_id": "31749",
+        "prompt": "Is there a boy on the clock?\nAnswer the question using a single word or phrase."
+    },
+    "32203000": {
+        "image_id": "32203",
+        "prompt": "How many dirt bikes are there?\nAnswer the question using a single word or phrase."
+    },
+    "34773001": {
+        "image_id": "34773",
+        "prompt": "What color are this animal's eyes?\nAnswer the question using a single word or phrase."
+    },
+    "428856004": {
+        "image_id": "428856",
+        "prompt": "Is the ship at sea?\nAnswer the question using a single word or phrase."
+    },
+    "560850001": {
+        "image_id": "560850",
+        "prompt": "Is this an arena?\nAnswer the question using a single word or phrase."
+    },
+    "562121001": {
+        "image_id": "562121",
+        "prompt": "Are the fish fighting?\nAnswer the question using a single word or phrase."
+    },
+    "169097001": {
+        "image_id": "169097",
+        "prompt": "What is standing in front of the wall?\nAnswer the question using a single word or phrase."
+    },
+    "303314003": {
+        "image_id": "303314",
+        "prompt": "What game was this dog playing?\nAnswer the question using a single word or phrase."
+    },
+    "304099001": {
+        "image_id": "304099",
+        "prompt": "What are the bags doing?\nAnswer the question using a single word or phrase."
+    },
+    "566729002": {
+        "image_id": "566729",
+        "prompt": "Where is the bird standing on?\nAnswer the question using a single word or phrase."
+    },
+    "306135001": {
+        "image_id": "306135",
+        "prompt": "Is there a statue in the background?\nAnswer the question using a single word or phrase."
+    },
+    "175310013": {
+        "image_id": "175310",
+        "prompt": "Are there any visible mirrors?\nAnswer the question using a single word or phrase."
+    },
+    "45208009": {
+        "image_id": "45208",
+        "prompt": "What is the cat looking at?\nAnswer the question using a single word or phrase."
+    },
+    "439339002": {
+        "image_id": "439339",
+        "prompt": "What shape are the woman's earrings?\nAnswer the question using a single word or phrase."
+    },
+    "177758005": {
+        "image_id": "177758",
+        "prompt": "What is the wall made of?\nAnswer the question using a single word or phrase."
+    },
+    "510343006": {
+        "image_id": "510343",
+        "prompt": "Is this on a farm?\nAnswer the question using a single word or phrase."
+    },
+    "441453006": {
+        "image_id": "441453",
+        "prompt": "What color hair does the person have?\nAnswer the question using a single word or phrase."
+    },
+    "48564002": {
+        "image_id": "48564",
+        "prompt": "Is this person angry or happy?\nAnswer the question using a single word or phrase."
+    },
+    "441840006": {
+        "image_id": "441840",
+        "prompt": "What sport is this?\nAnswer the question using a single word or phrase."
+    },
+    "51685004": {
+        "image_id": "51685",
+        "prompt": "What color is the plane?\nAnswer the question using a single word or phrase."
+    },
+    "576582002": {
+        "image_id": "576582",
+        "prompt": "Where is the airplane in the picture?\nAnswer the question using a single word or phrase."
+    },
+    "318455004": {
+        "image_id": "318455",
+        "prompt": "Is this food sweet?\nAnswer the question using a single word or phrase."
+    },
+    "445567004": {
+        "image_id": "445567",
+        "prompt": "Who is not wearing contact lenses?\nAnswer the question using a single word or phrase."
+    },
+    "59455000": {
+        "image_id": "59455",
+        "prompt": "What is the man holding?\nAnswer the question using a single word or phrase."
+    },
+    "455279008": {
+        "image_id": "455279",
+        "prompt": "What is in the background?\nAnswer the question using a single word or phrase."
+    },
+    "457780000": {
+        "image_id": "457780",
+        "prompt": "How many trees are in the picture?\nAnswer the question using a single word or phrase."
+    },
+    "197125001": {
+        "image_id": "197125",
+        "prompt": "What type of game system controller is on the left of the desk?\nAnswer the question using a single word or phrase."
+    },
+    "328596018": {
+        "image_id": "328596",
+        "prompt": "How many children?\nAnswer the question using a single word or phrase."
+    },
+    "67065003": {
+        "image_id": "67065",
+        "prompt": "How many pots are shown?\nAnswer the question using a single word or phrase."
+    },
+    "202438002": {
+        "image_id": "202438",
+        "prompt": "Are the spots on the giraffe's chest symmetrical?\nAnswer the question using a single word or phrase."
+    },
+    "203239003": {
+        "image_id": "203239",
+        "prompt": "Is the man wearing a tank top?\nAnswer the question using a single word or phrase."
+    },
+    "334405001": {
+        "image_id": "334405",
+        "prompt": "Is this a new bus?\nAnswer the question using a single word or phrase."
+    },
+    "205002002": {
+        "image_id": "205002",
+        "prompt": "Does this vehicle carry a spare tire?\nAnswer the question using a single word or phrase."
+    },
+    "205531019": {
+        "image_id": "205531",
+        "prompt": "Is there a living thing in the photo besides the dog?\nAnswer the question using a single word or phrase."
+    },
+    "468457000": {
+        "image_id": "468457",
+        "prompt": "Is this a cake?\nAnswer the question using a single word or phrase."
+    },
+    "470350015": {
+        "image_id": "470350",
+        "prompt": "What is the name of the tour he's playing in?\nAnswer the question using a single word or phrase."
+    },
+    "208817002": {
+        "image_id": "208817",
+        "prompt": "What color is the surfboard?\nAnswer the question using a single word or phrase."
+    },
+    "340508000": {
+        "image_id": "340508",
+        "prompt": "Do windows let enough light there?\nAnswer the question using a single word or phrase."
+    },
+    "211042001": {
+        "image_id": "211042",
+        "prompt": "What is the cat looking at?\nAnswer the question using a single word or phrase."
+    },
+    "475195007": {
+        "image_id": "475195",
+        "prompt": "Are there any vegetable in the picture?\nAnswer the question using a single word or phrase."
+    },
+    "188624004": {
+        "image_id": "188624",
+        "prompt": "Is this in a park?\nAnswer the question using a single word or phrase."
+    },
+    "369404010": {
+        "image_id": "369404",
+        "prompt": "Is the boy sad?\nAnswer the question using a single word or phrase."
+    },
+    "215581002": {
+        "image_id": "215581",
+        "prompt": "Does this picture show carrots in a basket?\nAnswer the question using a single word or phrase."
+    },
+    "477750000": {
+        "image_id": "477750",
+        "prompt": "What color are the saddles?\nAnswer the question using a single word or phrase."
+    },
+    "346863000": {
+        "image_id": "346863",
+        "prompt": "What are the men playing?\nAnswer the question using a single word or phrase."
+    },
+    "478374012": {
+        "image_id": "478374",
+        "prompt": "How many animals are there?\nAnswer the question using a single word or phrase."
+    },
+    "85353006": {
+        "image_id": "85353",
+        "prompt": "Are there any trucks in the picture?\nAnswer the question using a single word or phrase."
+    },
+    "495031001": {
+        "image_id": "495031",
+        "prompt": "Why is the man reaching up?\nAnswer the question using a single word or phrase."
+    },
+    "219063000": {
+        "image_id": "219063",
+        "prompt": "What is the cat sitting on?\nAnswer the question using a single word or phrase."
+    },
+    "222009002": {
+        "image_id": "222009",
+        "prompt": "Are these real flowers?\nAnswer the question using a single word or phrase."
+    },
+    "484816000": {
+        "image_id": "484816",
+        "prompt": "What type of bus is in the photo?\nAnswer the question using a single word or phrase."
+    },
+    "356263001": {
+        "image_id": "356263",
+        "prompt": "What model of bike are the police force using?\nAnswer the question using a single word or phrase."
+    },
+    "539975000": {
+        "image_id": "539975",
+        "prompt": "What is the name of the bus line?\nAnswer the question using a single word or phrase."
+    },
+    "226571008": {
+        "image_id": "226571",
+        "prompt": "Is this a riding tournament?\nAnswer the question using a single word or phrase."
+    },
+    "226762004": {
+        "image_id": "226762",
+        "prompt": "What color hair does the man have?\nAnswer the question using a single word or phrase."
+    },
+    "227781002": {
+        "image_id": "227781",
+        "prompt": "Is there a staircase?\nAnswer the question using a single word or phrase."
+    },
+    "359947002": {
+        "image_id": "359947",
+        "prompt": "What is the woman doing?\nAnswer the question using a single word or phrase."
+    },
+    "38574002": {
+        "image_id": "38574",
+        "prompt": "What is Michael's last name?\nAnswer the question using a single word or phrase."
+    },
+    "313386001": {
+        "image_id": "313386",
+        "prompt": "How many planes is on the runway?\nAnswer the question using a single word or phrase."
+    },
+    "107839023": {
+        "image_id": "107839",
+        "prompt": "What word in this sentence express what you see in the picture?\nAnswer the question using a single word or phrase."
+    },
+    "504670003": {
+        "image_id": "504670",
+        "prompt": "Is the recorder on?\nAnswer the question using a single word or phrase."
+    },
+    "504891036": {
+        "image_id": "504891",
+        "prompt": "How many trees are in this picture?\nAnswer the question using a single word or phrase."
+    },
+    "111951001": {
+        "image_id": "111951",
+        "prompt": "Is this room ready to be used?\nAnswer the question using a single word or phrase."
+    },
+    "505786028": {
+        "image_id": "505786",
+        "prompt": "What kind of fruit are the using?\nAnswer the question using a single word or phrase."
+    },
+    "114108004": {
+        "image_id": "114108",
+        "prompt": "Is this meal in progress?\nAnswer the question using a single word or phrase."
+    },
+    "115875008": {
+        "image_id": "115875",
+        "prompt": "What is the girl doing with her hand?\nAnswer the question using a single word or phrase."
+    },
+    "115946002": {
+        "image_id": "115946",
+        "prompt": "Where are the people?\nAnswer the question using a single word or phrase."
+    },
+    "120340004": {
+        "image_id": "120340",
+        "prompt": "What color is the man's shirt?\nAnswer the question using a single word or phrase."
+    },
+    "251794000": {
+        "image_id": "251794",
+        "prompt": "Is this a birthday cake?\nAnswer the question using a single word or phrase."
+    },
+    "125059002": {
+        "image_id": "125059",
+        "prompt": "What is on the corner above the toilet?\nAnswer the question using a single word or phrase."
+    },
+    "387369006": {
+        "image_id": "387369",
+        "prompt": "What color is the girls shirt?\nAnswer the question using a single word or phrase."
+    },
+    "521071002": {
+        "image_id": "521071",
+        "prompt": "What color is the girl's shirt?\nAnswer the question using a single word or phrase."
+    },
+    "348991001": {
+        "image_id": "348991",
+        "prompt": "Is this picture taken inside or outdoors?\nAnswer the question using a single word or phrase."
+    },
+    "259625000": {
+        "image_id": "259625",
+        "prompt": "What is the elephant doing?\nAnswer the question using a single word or phrase."
+    },
+    "521804000": {
+        "image_id": "521804",
+        "prompt": "What is grazing in the field?\nAnswer the question using a single word or phrase."
+    },
+    "522137001": {
+        "image_id": "522137",
+        "prompt": "Are these cars driving?\nAnswer the question using a single word or phrase."
+    },
+    "129765003": {
+        "image_id": "129765",
+        "prompt": "Is the male with the red baseball cap wearing his cap forwards or backwards?\nAnswer the question using a single word or phrase."
+    },
+    "130528001": {
+        "image_id": "130528",
+        "prompt": "Is this a scene of a life-sized train and traffic scene?\nAnswer the question using a single word or phrase."
+    }
+}
