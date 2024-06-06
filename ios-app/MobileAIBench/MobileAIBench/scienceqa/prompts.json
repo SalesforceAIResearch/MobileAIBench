@@ -1,0 +1,402 @@
+{
+    "8": {
+        "image_id": "8",
+        "prompt": "Context: Use the data to answer the question below.\nQuestion: Is the following statement about our solar system true or false?\nJupiter's volume is more than 10,000 times as large as the volume of Mars.\nOptions: (A): true (B): false \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "113": {
+        "image_id": "113",
+        "prompt": "Question: Which continent is highlighted?\nOptions: (A): Australia (B): South America (C): Antarctica (D): North America \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "132": {
+        "image_id": "132",
+        "prompt": "Question: What is the capital of Arizona?\nOptions: (A): Juneau (B): Phoenix (C): Reno (D): Tucson \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "273": {
+        "image_id": "273",
+        "prompt": "Context: Malachite sunbirds live in the coastal and hilly areas of South Africa. The shape of the 's beak is adapted to get nectar out of long flowers.\nFigure: malachite sunbird.\nQuestion: Which bird's beak is also adapted to get nectar out of long flowers?\nOptions: (A): snowy owl (B): violet sabrewing \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "308": {
+        "image_id": "308",
+        "prompt": "Context: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes.\nQuestion: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A): The magnitude of the magnetic force is smaller in Pair 1. (B): The magnitude of the magnetic force is the same in both pairs. (C): The magnitude of the magnetic force is smaller in Pair 2. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "320": {
+        "image_id": "320",
+        "prompt": "Question: What is the capital of Missouri?\nOptions: (A): Pierre (B): Kansas City (C): Jefferson City (D): Saint Louis \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "490": {
+        "image_id": "490",
+        "prompt": "Context: Select the best answer.\nQuestion: Which property do these four objects have in common?\nOptions: (A): shiny (B): sweet (C): transparent \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "491": {
+        "image_id": "491",
+        "prompt": "Question: What is the capital of New Mexico?\nOptions: (A): Denver (B): Albuquerque (C): Boston (D): Santa Fe \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "494": {
+        "image_id": "494",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): New Zealand (B): Australia (C): Tuvalu (D): Papua New Guinea \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "545": {
+        "image_id": "545",
+        "prompt": "Context: Below is a food web from an ocean ecosystem in Monterey Bay, off the coast of California.\nA food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem.\nQuestion: In this food web, which organism contains matter that eventually moves to the sea cucumber?\nOptions: (A): bat star (B): kelp (C): kelp bass (D): black rockfish \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "584": {
+        "image_id": "584",
+        "prompt": "Context: Read the passage. Then answer the question below.\n\nDuring the wet season, there are heavy rains, and the salty ponds in the Camargue wetland in France fill with water. During the dry season, the ponds lose water, and the remaining water becomes saltier. Some plants, such as tamarisk trees, can live in this changing environment.\nThe salty Camargue wetlands are also a habitat for flocks of greater flamingos. Greater flamingos get their pink color from eating brine shrimp, which are tiny pink shrimp that live in the wetlands. Brine shrimp get their pink color from eating microscopic algae that contain pink pigments.\nFigure: greater flamingos in the Camargue wetlands.\nQuestion: Which of the following best describes a population in the Camargue wetlands?\nOptions: (A): the microscopic algae and the brine shrimp (B): a flock of greater flamingos (C): the salty water and the tamarisk trees \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "634": {
+        "image_id": "634",
+        "prompt": "Context: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes.\nQuestion: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A): The magnitude of the magnetic force is the same in both pairs. (B): The magnitude of the magnetic force is smaller in Pair 2. (C): The magnitude of the magnetic force is smaller in Pair 1. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "635": {
+        "image_id": "635",
+        "prompt": "Question: What is the capital of Connecticut?\nOptions: (A): New Haven (B): Hartford (C): Trenton (D): Newport \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "652": {
+        "image_id": "652",
+        "prompt": "Context: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes.\nQuestion: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A): The magnitude of the magnetic force is the same in both pairs. (B): The magnitude of the magnetic force is greater in Pair 1. (C): The magnitude of the magnetic force is greater in Pair 2. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "715": {
+        "image_id": "715",
+        "prompt": "Context: Look at the map of North America in the early colonial era, or the 1600s and early 1700s. Then answer the question below.\nQuestion: According to the map, which of the following statements is true about North America in the early colonial era?\nOptions: (A): The Dutch controlled the most territory in eastern North America. (B): Several European countries claimed land in North America. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "730": {
+        "image_id": "730",
+        "prompt": "Context: The diagram below is a model of two solutions. Each yellow ball represents one particle of solute.\nQuestion: Which solution has a higher concentration of yellow particles?\nOptions: (A): Solution B (B): neither; their concentrations are the same (C): Solution A \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "739": {
+        "image_id": "739",
+        "prompt": "Context: s are carnivores, or meat eaters. They eat fish, mammals, and other reptiles. The crocodile's mouth is adapted to tear through meat.\nFigure: Nile crocodile.\nQuestion: Which animal's mouth is also adapted to tear through meat?\nOptions: (A): nutria (B): tiger \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "754": {
+        "image_id": "754",
+        "prompt": "Context: The passage below describes an experiment. Read the passage and then follow the instructions below.\n\nJudy glued lids onto 16 cardboard shoe boxes of equal size. She painted eight of the boxes black and eight of the boxes white. Judy made a small hole in the side of each box and then stuck a thermometer partially into each hole so she could measure the temperatures inside the boxes. She placed the boxes in direct sunlight in her backyard. Two hours later, she measured the temperature inside each box. Judy compared the average temperature inside the black boxes to the average temperature inside the white boxes.\nFigure: a shoebox painted black.\nQuestion: Identify the question that Judy's experiment can best answer.\nOptions: (A): Do the temperatures inside boxes depend on the sizes of the boxes? (B): Do the insides of white boxes get hotter than the insides of black boxes when the boxes are left in the sun? \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "760": {
+        "image_id": "760",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): Vanuatu (B): the Marshall Islands (C): Kiribati (D): Nauru \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "799": {
+        "image_id": "799",
+        "prompt": "Context: This organism is Argema mittrei. It is also called a comet moth.\nQuestion: Which is this organism's common name?\nOptions: (A): comet moth (B): Argema mittrei \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "817": {
+        "image_id": "817",
+        "prompt": "Context: Military macaws live in the forests of Central and South America. They eat large seeds and nuts. The shape of the 's beak is adapted to crack open large, hard nuts.\nFigure: military macaw.\nQuestion: Which bird's beak is also adapted to crack large, hard nuts?\nOptions: (A): western kingbird (B): Alexandrine parakeet \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "893": {
+        "image_id": "893",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): the Marshall Islands (B): Tuvalu (C): Kiribati (D): Nauru \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "934": {
+        "image_id": "934",
+        "prompt": "Context: The model below represents a molecule of hydrogen sulfide. Hydrogen sulfide is a poisonous gas that is produced by some types of bacteria found in swamps and marshes.\nQuestion: Complete the statement.\nHydrogen sulfide is ().\nOptions: (A): an elementary substance (B): a compound \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "953": {
+        "image_id": "953",
+        "prompt": "Question: What is the capital of Arkansas?\nOptions: (A): Baton Rouge (B): Fayetteville (C): Manchester (D): Little Rock \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1021": {
+        "image_id": "1021",
+        "prompt": "Context: This passage describes the Huntington's disease trait in humans:\nHuntington's disease is a condition that causes the death of brain cells over time. This loss of cells interferes with brain function and may lead to uncontrolled movements, difficulty thinking, and changes in behavior.\nIn a group of humans, some individuals have Huntington's disease and others do not. In this group, the gene for the Huntington's disease trait has two alleles. The allele for not having Huntington's disease (h) is recessive to the allele for having Huntington's disease (H).\nThis Punnett square shows a cross between two humans.\nQuestion: What is the expected ratio of offspring that do not have Huntington's disease to offspring that have Huntington's disease? Choose the most likely ratio.\nOptions: (A): 2:2 (B): 3:1 (C): 4:0 (D): 0:4 (E): 1:3 \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1064": {
+        "image_id": "1064",
+        "prompt": "Context: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes and shapes.\nQuestion: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A): The magnitude of the magnetic force is the same in both pairs. (B): The magnitude of the magnetic force is smaller in Pair 1. (C): The magnitude of the magnetic force is smaller in Pair 2. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1139": {
+        "image_id": "1139",
+        "prompt": "Context: Mammals have hair or fur and feed their young milk. A gray wolf is an example of a mammal.\nQuestion: Select the mammal below.\nOptions: (A): sea otter (B): salmon \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1141": {
+        "image_id": "1141",
+        "prompt": "Context: The passage below describes an experiment. Read the passage and then follow the instructions below.\n\nDamon made six batches of muffins over the course of one day. He used whole wheat flour in three of the batches and white flour in the other three batches. He divided the batter into muffin tins, using two ounces of batter per muffin. He baked the muffins in a 350\u00b0F oven for 20 minutes. After allowing the muffins to cool, Damon measured the dimensions of the muffins and calculated their volumes. He compared the volumes of the muffins made with whole wheat flour to the volumes of the muffins made with white flour.\nFigure: muffins cooling.\nQuestion: Identify the question that Damon's experiment can best answer.\nOptions: (A): Do muffins made with white flour have larger volumes than muffins made with whole wheat flour? (B): Does the type of flour used in the muffins affect the number of muffins that turn brown after 30 minutes in the oven? \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1165": {
+        "image_id": "1165",
+        "prompt": "Question: What is the name of the colony shown?\nOptions: (A): New York (B): Rhode Island (C): New Jersey (D): Michigan \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1206": {
+        "image_id": "1206",
+        "prompt": "Context: Figure: Bia\u0142owie\u017ca Forest.\nThe Bia\u0142owie\u017ca Forest is a temperate deciduous forest ecosystem located in Poland and Belarus. It is one of the largest and oldest forests in Europe.\nQuestion: Which statement describes the Bia\u0142owie\u017ca Forest ecosystem?\nOptions: (A): It has a small amount of rain or snow. (B): It has only a few types of trees. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1237": {
+        "image_id": "1237",
+        "prompt": "Context: This passage describes the shell banding trait in Cepaea snails:\nCepaea snails live on land in many parts of Europe. The shells of Cepaea snails can have different colors and patterns. Banded shells have dark bands, or stripes, that spiral around their surfaces. Unbanded shells do not have bands.\nIn a group of Cepaea snails, some individuals have a banded shell and others have an unbanded shell. In this group, the gene for the shell banding trait has two alleles. The allele for an unbanded shell (b) is recessive to the allele for a banded shell (B).\nThis Punnett square shows a cross between two Cepaea snails.\nQuestion: What is the probability that a Cepaea snail produced by this cross will be homozygous recessive for the shell banding gene?\nOptions: (A): 2/4 (B): 4/4 (C): 0/4 (D): 3/4 (E): 1/4 \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1423": {
+        "image_id": "1423",
+        "prompt": "Context: The map below shows humidity in the lower atmosphere on October 17, 2013. The map shows specific humidity, a measurement of the amount of water vapor in the air. The outlined area shows an air mass that influenced weather in North America on that day.\nLook at the map. Then, answer the question below.\nData source: United States National Oceanic and Atmospheric Administration/Earth System Research Laboratory, Physical Sciences Division\nQuestion: Which specific humidity level was measured within the outlined area shown?\nOptions: (A): 11 grams of water vapor per kilogram of air (B): 12 grams of water vapor per kilogram of air (C): 5 grams of water vapor per kilogram of air \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1553": {
+        "image_id": "1553",
+        "prompt": "Question: What is the name of the colony shown?\nOptions: (A): Florida (B): Vermont (C): Alabama (D): Connecticut \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1570": {
+        "image_id": "1570",
+        "prompt": "Context: People can use the engineering-design process to develop solutions to problems. One step in the process is testing if a potential solution meets the requirements of the design.\nThe passage below describes how the engineering-design process was used to test a solution to a problem. Read the passage. Then answer the question below.\n\nPeople with diabetes sometimes take a medicine made from insulin. Insulin can be made by a special type of bacteria. Isabella was a bioengineer who wanted to increase the amount of insulin that the bacteria produced by 20%. She read that giving the bacteria more nutrients could affect the amount of insulin they produced. So, Isabella gave extra nutrients to some of the bacteria. Then, she measured how much insulin those bacteria produced compared to bacteria that did not get extra nutrients.\nFigure: studying bacteria in a laboratory.\nQuestion: Which of the following could Isabella's test show?\nOptions: (A): whether she added enough nutrients to help the bacteria produce 20% more insulin (B): whether different types of bacteria would need different nutrients to produce insulin (C): whether producing more insulin would help the bacteria grow faster \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1595": {
+        "image_id": "1595",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): Grenada (B): Saint Lucia (C): Trinidad and Tobago (D): Jamaica \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1602": {
+        "image_id": "1602",
+        "prompt": "Context: Below is a food web from an ocean ecosystem in Monterey Bay, off the coast of California.\nA food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem.\nQuestion: Which of the following organisms is the omnivore in this food web?\nOptions: (A): plainfin midshipman (B): sea urchin (C): phytoplankton (D): kelp \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1609": {
+        "image_id": "1609",
+        "prompt": "Context: Two magnets are placed as shown.\n\nHint: Magnets that attract pull together. Magnets that repel push apart.\nQuestion: Will these magnets attract or repel each other?\nOptions: (A): repel (B): attract \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1718": {
+        "image_id": "1718",
+        "prompt": "Question: Which of these states is farthest north?\nOptions: (A): Arizona (B): Georgia (C): Kentucky (D): Connecticut \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1726": {
+        "image_id": "1726",
+        "prompt": "Context: Figure: Everglades National Park.\nEverglades National Park is a wetland ecosystem in southern Florida.\nQuestion: Which better describes the Everglades National Park ecosystem?\nOptions: (A): It has soil that is poor in nutrients. It also has only a few types of organisms. (B): It has land that is covered in water during most of the year. It also has other water ecosystems nearby. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1817": {
+        "image_id": "1817",
+        "prompt": "Context: This diagram shows fossils in an undisturbed sedimentary rock sequence.\nQuestion: Which of the following fossils is older? Select the more likely answer.\nOptions: (A): crocodile egg (B): palm leaf \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1843": {
+        "image_id": "1843",
+        "prompt": "Question: What is the name of the colony shown?\nOptions: (A): Virginia (B): Alabama (C): Maryland (D): Georgia \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1859": {
+        "image_id": "1859",
+        "prompt": "Context: Use the data to answer the question below.\nQuestion: Is the following statement about our solar system true or false?\n75% of the planets are made mainly of rock.\nOptions: (A): false (B): true \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1868": {
+        "image_id": "1868",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): Fiji (B): Papua New Guinea (C): Palau (D): the Federated States of Micronesia \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1974": {
+        "image_id": "1974",
+        "prompt": "Context: Trade happens when people agree to exchange goods and services. People give up something to get something else. Sometimes people barter, or directly exchange one good or service for another.\nJustine and Norma open their lunch boxes in the school cafeteria. Neither Justine nor Norma got everything that they wanted. The table below shows which items they each wanted:\n\nLook at the images of their lunches. Then answer the question below.\nJustine's lunch Norma's lunch\nQuestion: What can Justine and Norma trade to each get what they want?\nOptions: (A): Norma can trade her broccoli for Justine's oranges. (B): Justine can trade her tomatoes for Norma's carrots. (C): Norma can trade her almonds for Justine's tomatoes. (D): Justine can trade her tomatoes for Norma's broccoli. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "1999": {
+        "image_id": "1999",
+        "prompt": "Context: The diagram below is a model of two solutions. Each green ball represents one particle of solute.\nQuestion: Which solution has a higher concentration of green particles?\nOptions: (A): Solution B (B): Solution A (C): neither; their concentrations are the same \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2024": {
+        "image_id": "2024",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): Tuvalu (B): Solomon Islands (C): the Marshall Islands (D): Fiji \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2034": {
+        "image_id": "2034",
+        "prompt": "Context: The following passage describes the effects of a gene mutation, which is a permanent change in a gene. Read the passage and then follow the instructions below.\n\nCertain types of Escherichia coli (E. coli) bacteria have long, thin structures called flagella. The flagella on these bacteria can spin. This motion propels the bacteria and allows them to move through their environments.\nFlagella are assembled from many different proteins that stick to each other. Parts of the E. coli flagella are made up of a protein called FliG. The FliG protein is encoded by the FliG gene.\nScientists discovered some E. coli cells that had no flagella. These bacteria had a mutation in the FliG gene. Compared to the FliG gene without a mutation, the mutated FliG gene encoded a form of the FliG protein with a different structure.\nThis different form of the FliG protein could not stick to other flagella proteins.\nFigure: an E. coli cell with flagella.\nQuestion: Complete the sentence.\nThe mutation in the () affected the structure and function of the ().\nOptions: (A): FliG protein . . . FliG gene (B): FliG gene . . . FliG protein \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2039": {
+        "image_id": "2039",
+        "prompt": "Question: Which of these states is farthest north?\nOptions: (A): North Carolina (B): Texas (C): Mississippi (D): Missouri \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2095": {
+        "image_id": "2095",
+        "prompt": "Context: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different shapes.\nQuestion: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A): The magnitude of the magnetic force is greater in Pair 2. (B): The magnitude of the magnetic force is the same in both pairs. (C): The magnitude of the magnetic force is greater in Pair 1. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2171": {
+        "image_id": "2171",
+        "prompt": "Context: This organism is a crystal jellyfish. It is also called Aequorea victoria.\nQuestion: Which is this organism's scientific name?\nOptions: (A): crystal jellyfish (B): Aequorea victoria \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2178": {
+        "image_id": "2178",
+        "prompt": "Context: The model below represents a molecule of chloromethane. Chloromethane is found in chemicals that some farmers use to kill weeds.\nQuestion: Complete the statement.\nChloromethane is ().\nOptions: (A): an elementary substance (B): a compound \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2180": {
+        "image_id": "2180",
+        "prompt": "Context: In a group of rose plants, some individuals have light yellow flowers and others have dark yellow flowers. In this group, the gene for the flower color trait has two alleles. The allele for light yellow flowers (F) is dominant over the allele for dark yellow flowers (f).\nThis Punnett square shows a cross between two rose plants.\nQuestion: What is the probability that a rose plant produced by this cross will have dark yellow flowers?\nOptions: (A): 3/4 (B): 0/4 (C): 4/4 (D): 2/4 (E): 1/4 \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2281": {
+        "image_id": "2281",
+        "prompt": "Context: A skater falls off of his skateboard. The force of Earth's gravity pulls him to the ground.\nQuestion: What is the direction of this pull?\nOptions: (A): toward the center of Earth (B): away from the center of Earth \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2312": {
+        "image_id": "2312",
+        "prompt": "Context: Select the better answer.\nQuestion: Which property do these two objects have in common?\nOptions: (A): blue (B): slippery \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2313": {
+        "image_id": "2313",
+        "prompt": "Question: Which rhetorical appeal is primarily used in this ad?\nOptions: (A): logos (reason) (B): ethos (character) (C): pathos (emotion) \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2370": {
+        "image_id": "2370",
+        "prompt": "Context: Two magnets are placed as shown.\n\nHint: Magnets that attract pull together. Magnets that repel push apart.\nQuestion: Will these magnets attract or repel each other?\nOptions: (A): repel (B): attract \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2417": {
+        "image_id": "2417",
+        "prompt": "Context: Superb fairywrens eat insects and other small invertebrates. The shape of the 's beak is adapted to catch insects.\nFigure: superb fairywren.\nQuestion: Which bird's beak is also adapted to catch insects?\nOptions: (A): European robin (B): rosy-faced lovebird \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2446": {
+        "image_id": "2446",
+        "prompt": "Context: Harbor seals live along the coasts of the Atlantic and Pacific Oceans. They spend a lot of time hunting fish at sea.\nThe  has four flippers for limbs. Its limbs are adapted for swimming.\nFigure: harbor seal.\nQuestion: Which animal's limbs are also adapted for swimming?\nOptions: (A): sea turtle (B): ostrich \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2453": {
+        "image_id": "2453",
+        "prompt": "Context: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different shapes.\nQuestion: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A): The magnitude of the magnetic force is the same in both pairs. (B): The magnitude of the magnetic force is greater in Pair 1. (C): The magnitude of the magnetic force is greater in Pair 2. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2532": {
+        "image_id": "2532",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): Jamaica (B): Saint Kitts and Nevis (C): Antigua and Barbuda (D): Saint Lucia \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2546": {
+        "image_id": "2546",
+        "prompt": "Context: This organism is a black howler. It is also called Alouatta caraya.\nQuestion: Which is this organism's scientific name?\nOptions: (A): black howler (B): Alouatta caraya \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2606": {
+        "image_id": "2606",
+        "prompt": "Context: This organism is a green tree frog. Its scientific name is Hyla cinerea.\nQuestion: Select the organism in the same genus as the green tree frog.\nOptions: (A): Hyla japonica (B): Macropus giganteus (C): Ardea cinerea \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2655": {
+        "image_id": "2655",
+        "prompt": "Question: Look at the models of molecules below. Select the elementary substance.\nOptions: (A): dichloromethane (B): propane (C): chlorine \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2662": {
+        "image_id": "2662",
+        "prompt": "Context: Select the best answer.\nQuestion: Which property do these four objects have in common?\nOptions: (A): soft (B): shiny (C): smooth \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2690": {
+        "image_id": "2690",
+        "prompt": "Question: What is the capital of Wyoming?\nOptions: (A): Cheyenne (B): Tucson (C): Juneau (D): Laramie \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2732": {
+        "image_id": "2732",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): Jamaica (B): The Bahamas (C): Cuba (D): Saint Lucia \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2738": {
+        "image_id": "2738",
+        "prompt": "Context: Reptiles have scaly, waterproof skin. Most reptiles live on land. A helmeted iguana is an example of a reptile.\nQuestion: Select the reptile below.\nOptions: (A): American alligator (B): American bullfrog \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2785": {
+        "image_id": "2785",
+        "prompt": "Context: Reptiles have scaly, waterproof skin. Most reptiles live on land. A tortoise is an example of a reptile.\nQuestion: Select the reptile below.\nOptions: (A): Chinese alligator (B): goldfish \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2800": {
+        "image_id": "2800",
+        "prompt": "Question: Which of these states is farthest west?\nOptions: (A): Oregon (B): Rhode Island (C): Utah (D): Tennessee \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2808": {
+        "image_id": "2808",
+        "prompt": "Context: s live in the woodlands and meadows of California and Mexico. The shape of this hummingbird's beak is adapted to get nectar out of long flowers.\nFigure: Allen's hummingbird.\nQuestion: Which bird's beak is also adapted to get nectar out of long flowers?\nOptions: (A): roseate spoonbill (B): bronzy sunbird \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2829": {
+        "image_id": "2829",
+        "prompt": "Context: Use the data to answer the question below.\nQuestion: Is the following statement about our solar system true or false?\nSaturn's volume is more than 10,000 times as large as Mercury's.\nOptions: (A): true (B): false \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "2974": {
+        "image_id": "2974",
+        "prompt": "Question: What is the capital of Washington?\nOptions: (A): Seattle (B): Olympia (C): Spokane (D): Boston \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3002": {
+        "image_id": "3002",
+        "prompt": "Context: This organism is a black-footed cat. Its scientific name is Felis nigripes.\nQuestion: Select the organism in the same species as the black-footed cat.\nOptions: (A): Felis nigripes (B): Phoebastria nigripes (C): Macropus giganteus \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3011": {
+        "image_id": "3011",
+        "prompt": "Question: Which is the main persuasive appeal used in this ad?\nOptions: (A): pathos (emotion) (B): logos (reason) (C): ethos (character) \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3122": {
+        "image_id": "3122",
+        "prompt": "Context: The diagram below is a model of two solutions. Each green ball represents one particle of solute.\nQuestion: Which solution has a higher concentration of green particles?\nOptions: (A): neither; their concentrations are the same (B): Solution A (C): Solution B \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3231": {
+        "image_id": "3231",
+        "prompt": "Context: Fennec foxes live in the Sahara Desert of Africa. The  is adapted to be camouflaged in a sandy desert.\nFigure: fennec fox.\nQuestion: Which animal is also adapted to be camouflaged in a sandy desert?\nOptions: (A): polar bear (B): Namaqua chameleon \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3234": {
+        "image_id": "3234",
+        "prompt": "Question: Which ocean is highlighted?\nOptions: (A): the Southern Ocean (B): the Indian Ocean (C): the Atlantic Ocean (D): the Arctic Ocean \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3282": {
+        "image_id": "3282",
+        "prompt": "Question: What is the capital of Wyoming?\nOptions: (A): Laramie (B): Carson City (C): Knoxville (D): Cheyenne \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3342": {
+        "image_id": "3342",
+        "prompt": "Context: Large ground finches eat small, hard seeds and nuts. The shape of the 's beak is adapted to crack open small, hard seeds.\nFigure: large ground finch.\nQuestion: Which bird's beak is also adapted to crack hard seeds?\nOptions: (A): bald ibis (B): Asian golden weaver \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3386": {
+        "image_id": "3386",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): Solomon Islands (B): Tonga (C): Kiribati (D): Tuvalu \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3505": {
+        "image_id": "3505",
+        "prompt": "Question: What is the name of the colony shown?\nOptions: (A): Mississippi (B): New York (C): New Jersey (D): Delaware \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3519": {
+        "image_id": "3519",
+        "prompt": "Question: Which material is this mug made of?\nOptions: (A): ceramic (B): wood \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3562": {
+        "image_id": "3562",
+        "prompt": "Context: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes.\nQuestion: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A): The magnitude of the magnetic force is smaller in Pair 1. (B): The magnitude of the magnetic force is smaller in Pair 2. (C): The magnitude of the magnetic force is the same in both pairs. \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3613": {
+        "image_id": "3613",
+        "prompt": "Context: Two magnets are placed as shown.\nQuestion: Will these magnets attract or repel each other?\nOptions: (A): attract (B): repel \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3676": {
+        "image_id": "3676",
+        "prompt": "Context: Select the better answer.\nQuestion: Which property do these two objects have in common?\nOptions: (A): bouncy (B): sticky \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3696": {
+        "image_id": "3696",
+        "prompt": "Question: What is the capital of California?\nOptions: (A): Frankfort (B): Madison (C): Los Angeles (D): Sacramento \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3719": {
+        "image_id": "3719",
+        "prompt": "Question: Which ocean is highlighted?\nOptions: (A): the Arctic Ocean (B): the Indian Ocean (C): the Pacific Ocean (D): the Southern Ocean \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3741": {
+        "image_id": "3741",
+        "prompt": "Context: The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.\nQuestion: Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nOptions: (A): neither; the samples have the same temperature (B): sample A (C): sample B \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3946": {
+        "image_id": "3946",
+        "prompt": "Context: Calcarenite has the following properties:\nyellow-brown\nnot made by organisms\nnot a pure substance\nfound in nature\nsolid\nno fixed crystal structure\nQuestion: Is calcarenite a mineral or a rock?\nOptions: (A): rock (B): mineral \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3978": {
+        "image_id": "3978",
+        "prompt": "Question: What is the capital of Pennsylvania?\nOptions: (A): Harrisburg (B): Providence (C): Pittsburgh (D): Memphis \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3981": {
+        "image_id": "3981",
+        "prompt": "Question: What is the capital of Rhode Island?\nOptions: (A): Annapolis (B): Newport (C): Providence (D): Concord \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "3982": {
+        "image_id": "3982",
+        "prompt": "Context: es live in the cold Arctic tundra. The 's skin is adapted to help the animal survive in cold places.\nFigure: Arctic fox.\nQuestion: Which animal's skin is also adapted for survival in cold places?\nOptions: (A): fire salamander (B): caribou \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4040": {
+        "image_id": "4040",
+        "prompt": "Question: What is the capital of North Carolina?\nOptions: (A): Charlotte (B): Albany (C): Raleigh (D): Charleston \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4044": {
+        "image_id": "4044",
+        "prompt": "Question: Which i in column 2?\nOptions: (A): the police department (B): the grocery store (C): the restaurant (D): the park \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4069": {
+        "image_id": "4069",
+        "prompt": "Context: Read the text.\nOrganisms that can make their own energy from nonliving resources, such as the sun, are known as producers, or autotrophs. The Greek prefix auto- means \"self,\" and the suffix troph means \"nourishment.\" Thus, an autotroph can produce its own nourishment, as when a plant uses photosynthesis to obtain energy from the sun.\nOrganisms that eat living or once-living things to obtain their energy are known as consumers, or heterotrophs. The Greek prefix hetero- means \"different.\" This means that a heterotroph cannot produce energy on its own. Instead, heterotrophs consume other organisms\u2014plants and animals\u2014for energy.\nQuestion: Which term matches the picture?\nOptions: (A): heterotroph (B): autotroph \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4090": {
+        "image_id": "4090",
+        "prompt": "Question: What is the capital of Arizona?\nOptions: (A): Cheyenne (B): Phoenix (C): Santa Fe (D): Denver \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4101": {
+        "image_id": "4101",
+        "prompt": "Context: The passage below describes an experiment. Read the passage and then follow the instructions below.\n\nGabriel mixed bacteria into a nutrient-rich liquid where the bacteria could grow. He poured four ounces of the mixture into each of ten glass flasks. In five of the ten flasks, he also added one teaspoon of cinnamon. He allowed the bacteria in the flasks to grow overnight in a 37\u00b0C room. Then, Gabriel used a microscope to count the number of bacteria in a small sample from each flask. He compared the amount of bacteria in the liquid with cinnamon to the amount of bacteria in the liquid without cinnamon.\nFigure: flasks of liquid for growing bacteria.\nQuestion: Identify the question that Gabriel's experiment can best answer.\nOptions: (A): Does temperature affect how much bacteria can grow in liquid? (B): Do more bacteria grow in liquid with cinnamon than in liquid without cinnamon? \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4179": {
+        "image_id": "4179",
+        "prompt": "Context: Shoebills live near marshes and lakes in Africa. They eat fish, frogs, and small reptiles that live in shallow water. Shoebills hunt their prey by walking through water, or wading.\nThe 's legs are adapted for wading. They are lightweight and keep the bird's body above the water.\nFigure: shoebill.\nQuestion: Which animal's legs are also adapted for wading?\nOptions: (A): white tern (B): hammerkop \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4197": {
+        "image_id": "4197",
+        "prompt": "Question: Which country is highlighted?\nOptions: (A): New Zealand (B): Vanuatu (C): Papua New Guinea (D): Australia \nAnswer with the option\u2019s letter from the given choices directly."
+    },
+    "4228": {
+        "image_id": "4228",
+        "prompt": "Context: Below is a food web from a tundra ecosystem in Nunavut, a territory in Northern Canada.\nA food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem.\nQuestion: In this food web, which organism contains matter that eventually moves to the mushroom?\nOptions: (A): grizzly bear (B): parasitic jaeger \nAnswer with the option\u2019s letter from the given choices directly."
+    }
+}

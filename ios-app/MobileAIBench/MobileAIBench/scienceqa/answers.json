@@ -1,0 +1,402 @@
+{
+    "8": {
+        "image_id": "8",
+        "answer": "B"
+    },
+    "113": {
+        "image_id": "113",
+        "answer": "D"
+    },
+    "132": {
+        "image_id": "132",
+        "answer": "B"
+    },
+    "273": {
+        "image_id": "273",
+        "answer": "B"
+    },
+    "308": {
+        "image_id": "308",
+        "answer": "C"
+    },
+    "320": {
+        "image_id": "320",
+        "answer": "C"
+    },
+    "490": {
+        "image_id": "490",
+        "answer": "A"
+    },
+    "491": {
+        "image_id": "491",
+        "answer": "D"
+    },
+    "494": {
+        "image_id": "494",
+        "answer": "A"
+    },
+    "545": {
+        "image_id": "545",
+        "answer": "B"
+    },
+    "584": {
+        "image_id": "584",
+        "answer": "B"
+    },
+    "634": {
+        "image_id": "634",
+        "answer": "C"
+    },
+    "635": {
+        "image_id": "635",
+        "answer": "B"
+    },
+    "652": {
+        "image_id": "652",
+        "answer": "C"
+    },
+    "715": {
+        "image_id": "715",
+        "answer": "B"
+    },
+    "730": {
+        "image_id": "730",
+        "answer": "B"
+    },
+    "739": {
+        "image_id": "739",
+        "answer": "B"
+    },
+    "754": {
+        "image_id": "754",
+        "answer": "B"
+    },
+    "760": {
+        "image_id": "760",
+        "answer": "D"
+    },
+    "799": {
+        "image_id": "799",
+        "answer": "A"
+    },
+    "817": {
+        "image_id": "817",
+        "answer": "B"
+    },
+    "893": {
+        "image_id": "893",
+        "answer": "C"
+    },
+    "934": {
+        "image_id": "934",
+        "answer": "B"
+    },
+    "953": {
+        "image_id": "953",
+        "answer": "D"
+    },
+    "1021": {
+        "image_id": "1021",
+        "answer": "A"
+    },
+    "1064": {
+        "image_id": "1064",
+        "answer": "C"
+    },
+    "1139": {
+        "image_id": "1139",
+        "answer": "A"
+    },
+    "1141": {
+        "image_id": "1141",
+        "answer": "A"
+    },
+    "1165": {
+        "image_id": "1165",
+        "answer": "C"
+    },
+    "1206": {
+        "image_id": "1206",
+        "answer": "B"
+    },
+    "1237": {
+        "image_id": "1237",
+        "answer": "A"
+    },
+    "1423": {
+        "image_id": "1423",
+        "answer": "C"
+    },
+    "1553": {
+        "image_id": "1553",
+        "answer": "D"
+    },
+    "1570": {
+        "image_id": "1570",
+        "answer": "A"
+    },
+    "1595": {
+        "image_id": "1595",
+        "answer": "C"
+    },
+    "1602": {
+        "image_id": "1602",
+        "answer": "A"
+    },
+    "1609": {
+        "image_id": "1609",
+        "answer": "B"
+    },
+    "1718": {
+        "image_id": "1718",
+        "answer": "D"
+    },
+    "1726": {
+        "image_id": "1726",
+        "answer": "B"
+    },
+    "1817": {
+        "image_id": "1817",
+        "answer": "A"
+    },
+    "1843": {
+        "image_id": "1843",
+        "answer": "A"
+    },
+    "1859": {
+        "image_id": "1859",
+        "answer": "A"
+    },
+    "1868": {
+        "image_id": "1868",
+        "answer": "D"
+    },
+    "1974": {
+        "image_id": "1974",
+        "answer": "D"
+    },
+    "1999": {
+        "image_id": "1999",
+        "answer": "B"
+    },
+    "2024": {
+        "image_id": "2024",
+        "answer": "D"
+    },
+    "2034": {
+        "image_id": "2034",
+        "answer": "B"
+    },
+    "2039": {
+        "image_id": "2039",
+        "answer": "D"
+    },
+    "2095": {
+        "image_id": "2095",
+        "answer": "B"
+    },
+    "2171": {
+        "image_id": "2171",
+        "answer": "B"
+    },
+    "2178": {
+        "image_id": "2178",
+        "answer": "B"
+    },
+    "2180": {
+        "image_id": "2180",
+        "answer": "D"
+    },
+    "2281": {
+        "image_id": "2281",
+        "answer": "A"
+    },
+    "2312": {
+        "image_id": "2312",
+        "answer": "A"
+    },
+    "2313": {
+        "image_id": "2313",
+        "answer": "A"
+    },
+    "2370": {
+        "image_id": "2370",
+        "answer": "B"
+    },
+    "2417": {
+        "image_id": "2417",
+        "answer": "A"
+    },
+    "2446": {
+        "image_id": "2446",
+        "answer": "A"
+    },
+    "2453": {
+        "image_id": "2453",
+        "answer": "C"
+    },
+    "2532": {
+        "image_id": "2532",
+        "answer": "B"
+    },
+    "2546": {
+        "image_id": "2546",
+        "answer": "B"
+    },
+    "2606": {
+        "image_id": "2606",
+        "answer": "A"
+    },
+    "2655": {
+        "image_id": "2655",
+        "answer": "C"
+    },
+    "2662": {
+        "image_id": "2662",
+        "answer": "A"
+    },
+    "2690": {
+        "image_id": "2690",
+        "answer": "A"
+    },
+    "2732": {
+        "image_id": "2732",
+        "answer": "C"
+    },
+    "2738": {
+        "image_id": "2738",
+        "answer": "A"
+    },
+    "2785": {
+        "image_id": "2785",
+        "answer": "A"
+    },
+    "2800": {
+        "image_id": "2800",
+        "answer": "A"
+    },
+    "2808": {
+        "image_id": "2808",
+        "answer": "B"
+    },
+    "2829": {
+        "image_id": "2829",
+        "answer": "A"
+    },
+    "2974": {
+        "image_id": "2974",
+        "answer": "B"
+    },
+    "3002": {
+        "image_id": "3002",
+        "answer": "A"
+    },
+    "3011": {
+        "image_id": "3011",
+        "answer": "B"
+    },
+    "3122": {
+        "image_id": "3122",
+        "answer": "B"
+    },
+    "3231": {
+        "image_id": "3231",
+        "answer": "B"
+    },
+    "3234": {
+        "image_id": "3234",
+        "answer": "C"
+    },
+    "3282": {
+        "image_id": "3282",
+        "answer": "D"
+    },
+    "3342": {
+        "image_id": "3342",
+        "answer": "B"
+    },
+    "3386": {
+        "image_id": "3386",
+        "answer": "B"
+    },
+    "3505": {
+        "image_id": "3505",
+        "answer": "D"
+    },
+    "3519": {
+        "image_id": "3519",
+        "answer": "A"
+    },
+    "3562": {
+        "image_id": "3562",
+        "answer": "A"
+    },
+    "3613": {
+        "image_id": "3613",
+        "answer": "B"
+    },
+    "3676": {
+        "image_id": "3676",
+        "answer": "B"
+    },
+    "3696": {
+        "image_id": "3696",
+        "answer": "D"
+    },
+    "3719": {
+        "image_id": "3719",
+        "answer": "A"
+    },
+    "3741": {
+        "image_id": "3741",
+        "answer": "C"
+    },
+    "3946": {
+        "image_id": "3946",
+        "answer": "A"
+    },
+    "3978": {
+        "image_id": "3978",
+        "answer": "A"
+    },
+    "3981": {
+        "image_id": "3981",
+        "answer": "C"
+    },
+    "3982": {
+        "image_id": "3982",
+        "answer": "B"
+    },
+    "4040": {
+        "image_id": "4040",
+        "answer": "C"
+    },
+    "4044": {
+        "image_id": "4044",
+        "answer": "A"
+    },
+    "4069": {
+        "image_id": "4069",
+        "answer": "A"
+    },
+    "4090": {
+        "image_id": "4090",
+        "answer": "B"
+    },
+    "4101": {
+        "image_id": "4101",
+        "answer": "B"
+    },
+    "4179": {
+        "image_id": "4179",
+        "answer": "B"
+    },
+    "4197": {
+        "image_id": "4197",
+        "answer": "A"
+    },
+    "4228": {
+        "image_id": "4228",
+        "answer": "A"
+    }
+}
