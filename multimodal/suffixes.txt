@@ -1,0 +1,5 @@
+SUFFIX_VQAV2=Answer the question using a single word or phrase.
+SUFFIX_VISWIZ=When the provided information is insufficient, respond with 'Unanswerable'. Answer the question using a single word or phrase.
+SUFFIX_SCIENCEQA=Answer with the option’s letter from the given choices directly.
+SUFFIX_TEXTVQA=Answer the question using a single word or phrase.
+SUFFIX_GQA=Answer the question using a single word or phrase.
