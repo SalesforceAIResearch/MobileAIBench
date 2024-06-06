@@ -1,0 +1,293 @@
+llava-v1.5-7b-f16:
+  name: Llava-v1.5-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 4096
+
+llava-v1.5-7b-q8-0:
+  name: Llava-v1.5-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 4096
+
+llava-v1.5-7b-q4-k-m:
+  name: Llava-v1.5-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 4096
+
+llava-v1.5-7b-q4-0:
+  name: Llava-v1.5-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 4096
+  
+llava-v1.5-7b-q3-k-m:
+  name: Llava-v1.5-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 4096
+
+llava-v1.5-7b-q3-k-s:
+  name: Llava-v1.5-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 4096
+
+llava-v1.5-7b-q2-k:
+  name: Llava-v1.5-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 4096
+
+bakllava-v1-7b-f16:
+  name: BakLLaVA-1-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 32768
+
+bakllava-v1-7b-q8-0:
+  name: BakLLaVA-1-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 32768
+
+bakllava-v1-7b-q4-k-m:
+  name: BakLLaVA-1-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 32768
+
+bakllava-v1-7b-q4-0:
+  name: BakLLaVA-1-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 32768
+
+bakllava-v1-7b-q3-k-m:
+  name: BakLLaVA-1-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 32768
+
+bakllava-v1-7b-q3-k-s:
+  name: BakLLaVA-1-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 32768
+
+bakllava-v1-7b-q2-k:
+  name: BakLLaVA-1-7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 32768
+
+llava-phi-2-3b-f16:
+  name: Llava-phi-2-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 7B
+  context_length: 2048
+
+llava-phi-2-3b-q8-0:
+  name: Llava-phi-2-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+llava-phi-2-3b-q4-k-m:
+  name: Llava-phi-2-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+llava-phi-2-3b-q4-0:
+  name: Llava-phi-2-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+llava-phi-2-3b-q3-k-m:
+  name: Llava-phi-2-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+llava-phi-2-3b-q3-k-s:
+  name: Llava-phi-2-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+llava-phi-2-3b-q2-k:
+  name: Llava-phi-2-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+mobilevlm-1.7b-f16:
+  name: mobilevlm-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+mobilevlm-1.7b-q8-0:
+  name: mobilevlm-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+mobilevlm-1.7b-4-0:
+  name: mobilevlm-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+mobilevlm-1.7b-q4-k-m:
+  name: mobilevlm-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+mobilevlm-1.7b-q3-k-m:
+  name: mobilevlm-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+mobilevlm-1.7b-q3-k-s:
+  name: mobilevlm-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+mobilevlm-1.7b-q2-k:
+  name: mobilevlm-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+mobilevlm-3b-f16:
+  name: mobilevlm-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+mobilevlm-3b-q8-0:
+  name: mobilevlm-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+mobilevlm-3b-q4-0:
+  name: mobilevlm-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+mobilevlm-3b-q4-k-m:
+  name: mobilevlm-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+mobilevlm-3b-q3-k-m:
+  name: mobilevlm-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+mobilevlm-3b-q3-k-s:
+  name: mobilevlm-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+mobilevlm-3b-q2-k:
+  name: mobilevlm-3b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 3B
+  context_length: 2048
+
+moondream-1.7b-f16:
+  name: moondream-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+moondream-1.7b-q8-0:
+  name: moondream-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+moondream-1.7b-q4-k-m:
+  name: moondream-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+moondream-1.7b-q4-0:
+  name: moondream-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+moondream-1.7b-q3-k-m:
+  name: moondream-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+moondream-1.7b-q3-k-s:
+  name: moondream-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
+
+moondream-1.7b-q2-k:
+  name: moondream-1.7b
+  model_path: <model_path>
+  chat_handler_path: <projector_path>
+  size: 1.7B
+  context_length: 2048
