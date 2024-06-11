@@ -8,6 +8,7 @@ scripts_old/
 src_old/
 data_v1.4/
 log*
+!log.h
 .ipynb_checkpoints/
 openai.txt
 expts_ignore/
