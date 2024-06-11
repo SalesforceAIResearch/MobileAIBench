@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. **Apple Developer Account:** Ensure you have signed up for an Apple Developer account.
+1. **Apple Developer Account:** Ensure you have signed up for an Apple Developer account(free version).
 
 ## Steps to Run the Project
 
