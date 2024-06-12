@@ -68,3 +68,10 @@ Here are some usage examples for running MobileAIBench:
     ```bash
     python ./src/mobile_bench.py --task all --model_lib llama_cpp_python --model_name xgen2-3b.gguf
     ```
+## Running Mobile App
+- To run ios mobile app, refer to ./ios-app/README.md
+- Here's a screenshot taken from the app
+<div align="center">
+   <img width="300px" height="auto" src="./image/app.png">
+</div>
+
