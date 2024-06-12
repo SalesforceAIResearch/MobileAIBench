@@ -68,3 +68,9 @@ Here are some usage examples for running MobileAIBench:
     ```bash
     python ./src/mobile_bench.py --task all --model_lib llama_cpp_python --model_name xgen2-3b.gguf
     ```
+## Running mobile app
+- To run ios mobile app, refer to ./ios-app/README.md
+<div align="center">
+  <a href="https://https://github.com/SalesforceAIResearch/MobileAIBench/tree/main/ios-app"><img width="300px" height="auto" src="./image/app.png"></a>
+</div>
+
