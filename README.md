@@ -70,8 +70,13 @@ Here are some usage examples for running MobileAIBench:
     ```
 ## Running Mobile App
 - To run ios mobile app, refer to ./ios-app/README.md
-- Here's a screenshot taken from the app
+- Here's a screenshot taken from the ios-app
 <div align="center">
-   <img width="300px" height="auto" src="./image/app.png">
+   <img width="300px" height="auto" src="./image/ios-app.png">
+</div>
+- To run android mobile app, refer to ./android-app/README.md
+- Here's a screenshot taken from the android-app
+<div align="center">
+   <img width="300px" height="auto" src="./image/android-app.jpeg">
 </div>
 
