@@ -25,7 +25,7 @@
 A comprehensive benchmark designed to evaluate the performance and resource consumptions of LLMs & LMMs for on-device use cases.
 
 <div align="center">
-  <a href="https://github.com/SalesforceAIResearch/MobileAIBench"><img width="300px" height="auto" src="./image/pipeline-1.png"></a>
+  <a href="https://github.com/SalesforceAIResearch/MobileAIBench"><img src="./image/pipeline-1.png"></a>
 </div>
 
 ## Installation
