@@ -78,14 +78,15 @@ Here are some usage examples for running MobileAIBench:
     python ./src/mobile_bench.py --task all --model_lib llama_cpp_python --model_name xgen2-3b.gguf
     ```
 ## Running Mobile App
-- MobileAIBench supports both iOS and Android 
-- For iOS
+MobileAIBench supports both iOS and Android 
+
+## iOS setup
   
-## Prerequisites
+### Prerequisites
 
 1. **Apple Developer Account:** Ensure you have signed up for an Apple Developer account(free version).
 
-## Steps to Run the Project
+### Steps to Run the Project
 
 1. **Open the Project in Xcode:**
    - Open `MobileAIBench.xcodeproj` located at `ios-app/MobileAIBench/MobileAIBench.xcodeproj` in Xcode.
@@ -117,13 +118,14 @@ Here are some usage examples for running MobileAIBench:
    - To record CPU, RAM, memory, and thermal usage, open the Instrument app.
    - Run the LLMBench project using the Instrument app.
    - Depending on the metrics you want to record, choose profiles such as Activity Monitor, GPU, Metal Application, and Thermal State.
-## Download Models
+  
+### Download Models
 
 Download all the required models in `.gguf` format from the following link: [Download](https://huggingface.co/tulika214/Quantized_4_bit_models/tree/main)
 
-- For Android:
+## Android setup:
 
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure that you have the following:
 
@@ -131,7 +133,7 @@ Before you begin, ensure that you have the following:
 2. **Android Device**: Optional but recommended for testing on a real device.
 3. **Android Developer Account**: Optional, but needed if you want to distribute your app on the Google Play Store.
 
-## Steps to Load and Run the Project
+### Steps to Load and Run the Project
 
 1. **Open the Project in Android Studio:**
    - Open your project by selecting Open an existing project or going to File > Open, Open `MobileAIBench` located at `android-app/MobileAIBench/examples/llama.android` in Android Studio.
@@ -147,6 +149,6 @@ Before you begin, ensure that you have the following:
    - After building and running the app on the mobile device using Android Studio, close Android Studio.
    - App is now ready to be used on the target device!
 
-## Implementation Basis
+### Implementation Basis
 - This Android app is based on the llama.android implementation from the official llama.cpp repository. You can find it [here](https://github.com/ggerganov/llama.cpp/tree/master/examples/llama.android).
 
