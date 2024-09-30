@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/SalesforceAIResearch/MobileAIBench"><img width="300px" height="auto" src="./image/logo1.png"></a>
-  ## MobileAIBench
+  <h2>MobileAIBench</h2>
 </div>
 
 <div align="center">
