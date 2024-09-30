@@ -10,6 +10,15 @@
 </div>
 
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2406.10290">Paper</a> |
+  <a href="https://github.com/SalesforceAIResearch/MobileAIBench?tab=readme-ov-file#installation">Installation</a> |
+  <a href="https://github.com/SalesforceAIResearch/MobileAIBench?tab=readme-ov-file#usage">Usage</a> |
+  <a href="https://github.com/SalesforceAIResearch/MobileAIBench?tab=readme-ov-file#running-mobile-app">Mobile App</a> 
+</p>
+
+---
+
 ---
 
 ## MobileAIBench
